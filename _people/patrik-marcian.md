@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 - pms
 img: people/ppp.jpg   # 165 x 220
-description: Pirát # kratký popis, max 160 znaků
+description: 4. místopředseda MS KM # kratký popis, max 160 znaků
 mail:
 - patrik.marcian@pirati.cz
 profiles:

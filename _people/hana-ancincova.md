@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 - pms
 img: people/ppp.jpg   # 165 x 220
-description: Pirátka # kratký popis, max 160 znaků
+description: 2. místopředsedkyně MS KM # kratký popis, max 160 znaků
 mail:
 - hana.ancincova@pirati.cz
 profiles:

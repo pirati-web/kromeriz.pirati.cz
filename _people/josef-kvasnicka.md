@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 - pms
 img: people/ppp.jpg   # 165 x 220
-description: Pirát # kratký popis, max 160 znaků
+description: 3. místopředseda MS KM # kratký popis, max 160 znaků
 mail:
 - josef.kvasnicka@pirati.cz
 profiles:

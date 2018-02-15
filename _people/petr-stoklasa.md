@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - pms
 - clenove
 img: people/ppp.jpg   # 165 x 220
-description: 2. místopředseda KS Zlínský kraj # kratký popis, max 160 znaků
+description: 1. místopředseda MS KM # kratký popis, max 160 znaků
 mail:
 - petr.stoklasa@pirati.cz
 profiles:
