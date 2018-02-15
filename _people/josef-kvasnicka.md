@@ -5,7 +5,6 @@ fullname: Josef Kvasnička  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - pms
-
 img: people/ppp.jpg   # 165 x 220
 description: Pirát # kratký popis, max 160 znaků
 mail:
