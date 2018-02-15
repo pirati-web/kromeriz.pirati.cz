@@ -11,7 +11,7 @@ mail:
 - hana.ancincova@pirati.cz
 profiles:
   facebook: https://www.facebook.com
-  ordpms: 3
+ordpms: 3
 ---
 
 xxx

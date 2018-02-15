@@ -11,7 +11,7 @@ mail:
 - patrik.marcian@pirati.cz
 profiles:
   facebook: https://www.facebook.com
-  ordpms: 5
+ordpms: 5
 ---
 
 xxx

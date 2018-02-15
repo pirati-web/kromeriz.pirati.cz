@@ -11,7 +11,7 @@ mail:
 - josef.kvasnicka@pirati.cz
 profiles:
   facebook: https://www.facebook.com
-  ordpms: 4
+ordpms: 4
 ---
 
 xxx

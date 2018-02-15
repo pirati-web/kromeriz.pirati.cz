@@ -11,7 +11,7 @@ mail:
 - vratislav.krejcir@pirati.cz
 profiles:
   facebook: https://www.facebook.com
-  ordpms: 1
+ordpms: 1
 ---
 
 xxx
