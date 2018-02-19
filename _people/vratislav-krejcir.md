@@ -5,7 +5,7 @@ fullname: Vratislav Krejčíř  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - pms
-img: people/vratislav_krejcir_m.jpg   # 165 x 220
+img: people/vratislav_krejcir.jpg   # 165 x 220
 description: Předseda MS KM # kratký popis, max 160 znaků
 mail:
 - vratislav.krejcir@pirati.cz
