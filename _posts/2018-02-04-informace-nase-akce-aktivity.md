@@ -5,7 +5,7 @@ title: 'Informace o našich akcích a aktivitách - Únor 2018'
 date: 2018-02-04T12:06:00.032Z
 author: Josef Kvasnička
 authorId: josef.kvasnicka
-image: /assets/img/posts/mskm1.jpg
+image: /assets/img/posts/IMG_0871_web.jpg
 tags: 'Kroměříž radnice volby-2018 akce informace'
 ---
 Slíbili jsme vás pravidelně informovat o našich akcích a aktivitách. 
