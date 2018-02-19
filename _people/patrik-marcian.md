@@ -5,7 +5,7 @@ fullname: Patrik Marcián  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - pms
-img: people/ppp.jpg   # 165 x 220
+img: people/patrik_marcian.jpg   # 165 x 220
 description: 4. místopředseda MS KM # kratký popis, max 160 znaků
 mail:
 - patrik.marcian@pirati.cz
