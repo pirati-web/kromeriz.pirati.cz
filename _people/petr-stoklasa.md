@@ -5,7 +5,7 @@ fullname: Petr Stoklasa  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - pms
 - clenove
-img: people/ppp.jpg   # 165 x 220
+img: people/petr_stoklasa.jpg   # 165 x 220
 description: 1. místopředseda MS KM # kratký popis, max 160 znaků
 mail:
 - petr.stoklasa@pirati.cz
