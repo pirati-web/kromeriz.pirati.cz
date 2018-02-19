@@ -1,7 +1,7 @@
 ---
-uid: yveta.martinková
-name:     Yveta Martínková  	# běžně používáné jméno
-fullname: yveta Martínkvoá  	# jméno s tituly etc.
+uid: yveta.martinkova
+name:     Yveta Martinková  	# běžně používáné jméno
+fullname: Yveta Martinková  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
