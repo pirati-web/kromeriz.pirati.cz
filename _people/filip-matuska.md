@@ -5,7 +5,7 @@ fullname: Filip Matuška 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/filip_matuska.jpg   # 165 x 220
 description: Pirát # kratký popis, max 160 znaků
 mail:
 - filip.matuska@pirati.cz

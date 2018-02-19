@@ -5,7 +5,7 @@ fullname: Linda Švrčinová  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/linda_svrcinova.jpg   # 165 x 220
 description: Pirátka # kratký popis, max 160 znaků
 mail:
 - linda.svrcinova@pirati.cz
