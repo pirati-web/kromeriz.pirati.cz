@@ -1,14 +1,14 @@
 ---
-uid: hynek.polasek
-name:     Hynek Polášek  	# běžně používáné jméno
-fullname: Hynek Polášek 	# jméno s tituly etc.
+uid: tomas.holomel
+name:     Tomáš Holomel  	# běžně používáné jméno
+fullname: Tomáš Holomel  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
 img: people/ppp.jpg   # 165 x 220
 description: Pirát # kratký popis, max 160 znaků
 mail:
-- hynek.polasek@pirati.cz
+- tomas.holomel@pirati.cz
 profiles:
   facebook: https://www.facebook.com
 ---
