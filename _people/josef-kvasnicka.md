@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - pms
 
 img: people/josef-kvasnicka.jpg   # 165 x 220
-description: konstruktér # kratký popis, max 160 znaků
+description: 3. místopředseda MS KM, konstruktér # kratký popis, max 160 znaků
 mail:
 - josef.kvasnicka@pirati.cz
 profiles:

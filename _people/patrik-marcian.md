@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/patrik-marcian.jpg   # 165 x 220
-description: Pirát # kratký popis, max 160 znaků
+description: 4. místopředseda MS KM, Pirát # kratký popis, max 160 znaků
 mail:
 - patrik.marcian@pirati.cz
 profiles:

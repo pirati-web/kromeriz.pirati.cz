@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/petr-stoklasa.jpg   # 165 x 220
-description: 2. místopředseda KS Zlínský kraj, obchodník # kratký popis, max 160 znaků
+description: 1. místopředseda MS KM, obchodník # kratký popis, max 160 znaků
 mail:
 - petr.stoklasa@pirati.cz
 profiles:
