@@ -4,13 +4,15 @@ name:     Josef Kvasnička  	# běžně používáné jméno
 fullname: Josef Kvasnička  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- pms
 
 img: people/josef-kvasnicka.jpg   # 165 x 220
 description: konstruktér # kratký popis, max 160 znaků
 mail:
 - josef.kvasnicka@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/josef.kvasnicka.3v
+  facebook: https://www.facebook.com/josef.kvasnicka.3
+  ordpms: 4
 ---
 
 Josef Kvasnička (*18. dubna 1984, Kroměříž) žije v Kroměříži. Maturitu absolvoval na COPT Kroměříž obor Mechatronik.
