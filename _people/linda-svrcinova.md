@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/linda-svrcinova.jpg   # 165 x 220
-description: newborn fotografka, VŠ pedagog, fotografka # kratký popis, max 160 znaků
+description: VŠ pedagog, fotografka # kratký popis, max 160 znaků
 mail:
 - linda.svrcinova@pirati.cz
 profiles:
