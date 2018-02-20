@@ -12,7 +12,7 @@ mail:
 - josef.kvasnicka@pirati.cz
 profiles:
   facebook: https://www.facebook.com/josef.kvasnicka.3
-  ordpms: 4
+ordpms: 4
 ---
 
 Josef Kvasnička (*18. dubna 1984, Kroměříž) žije v Kroměříži. Maturitu absolvoval na COPT Kroměříž obor Mechatronik.

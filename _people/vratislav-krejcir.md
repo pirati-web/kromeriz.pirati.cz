@@ -3,8 +3,8 @@ uid: vratislav.krejcir
 name:     Vratislav Krejčíř  	# běžně používáné jméno
 fullname: Vratislav Krejčíř  	# jméno s tituly etc.
 category:                   # kategorie: clenove
-- clenove
 - pms
+- clenove
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
 description: IT správce # kratký popis, max 160 znaků
