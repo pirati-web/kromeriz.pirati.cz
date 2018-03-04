@@ -6,11 +6,17 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/ppp.jpg   # 165 x 220
-description: Pirát # kratký popis, max 160 znaků
+description: zákaznický technolog # kratký popis, max 160 znaků
 mail:
 - tomas.holomel@pirati.cz
 profiles:
-  facebook: https://www.facebook.com
+  facebook: https://www.facebook.com/tomas.holomel
 ---
 
-xxx
+Tomáš Holomel (*24. dubna 1991, Kroměříž) většinu života žil v malé obci na kroměřížsku a od roku 2015 bydlí v Hulíně.
+
+Vystudoval studijní program Metalurgické inženýrství na Fakultě metalurgie a materiálového inženýrství Vysoké školy báňské v Ostravě. V současné době pracuje jako Zákaznický technolog ve strojírenské firmě v Hulíně.
+
+Volný čas nejraději tráví s rodinou.
+
+Mezi jeho další záliby patří motocykly, hra na baskytaru a spolupořádání kulturních akcí ve sdružení Jiná kultura Hulín.
