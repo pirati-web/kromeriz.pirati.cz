@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Je Kroměřížská nemocnice opět v ohrožení? '
+title: 'Je Kroměřížská nemocnice opět v ohrožení? (1. část)'
 date: 2018-02-09T09:06:00.032Z
 author: Linda Švrčinová
 authorId: linda.svrcinova
@@ -9,7 +9,7 @@ image: assets/img/posts/nemocnice_web2.jpg
 tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
 ---
 
-Je Kroměřížská nemocnice opět v ohrožení?
+Je Kroměřížská nemocnice opět v ohrožení (1. část)?
 
 Ve čtvrtek 8. února 2018 navštívil Kroměříž hejtman Zlínského kraje Jiří Čunek. Návštěva to však nebyla neformální a srdečná. Hejtmana na jednání Zastupitelstva města Kroměříže pozvala Rada města Kroměříže (na základě usnesení z 83. schůze konané dne 25. ledna 2018). Pozornému čtenáři dokumentů a informací z naší radnice neuniklo, že se začíná „dít něco nekalého“ okolo Kroměřížské nemocnice a.s. 
 A právě to „něco“ bylo pro členy Rady natolik znepokojivé, že vyzvala hejtmana, aby „vysvětlil a jasně formuloval“ další fungování naší nemocnice. Právě se totiž vytváří nová koncepce řízení zdravotnictví ve Zlínském kraji (dokument Základní směry řízení nemocnic založených Zlínským krajem pro období 2018 – 2020) a do chodu nemocnice by díky tomu mohlo být v budoucnu výrazně zasaženo.
