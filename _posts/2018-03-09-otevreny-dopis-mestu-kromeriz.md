@@ -9,7 +9,7 @@ image: /assets/img/posts/IMG_0871_web.jpg
 tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
 ---
 
-Otevřený dopis starostovi a místostarostovi města Kroměříže
+<center>Otevřený dopis starostovi a místostarostovi města Kroměříže</center>
 
 V Kroměříži 6. března 2018
 
