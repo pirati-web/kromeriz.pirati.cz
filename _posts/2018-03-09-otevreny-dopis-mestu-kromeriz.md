@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Otevřený dopis starostovi a místostarostovi města Kroměříže'
-date: 2018-02-04T12:06:00.032Z
+date: 2018-03-09T09:06:00.032Z
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
 image: /assets/img/posts/IMG_0871_web.jpg
