@@ -9,7 +9,7 @@ image: assets/img/posts/nemocnice_web2.jpg
 tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
 ---
 
-Je Kroměřížská nemocnice opět v ohrožení (1. část)?
+1. část ze série článků o nemocnici v Kroměříži
 
 Ve čtvrtek 8. února 2018 navštívil Kroměříž hejtman Zlínského kraje Jiří Čunek. Návštěva to však nebyla neformální a srdečná. Hejtmana na jednání Zastupitelstva města Kroměříže pozvala Rada města Kroměříže (na základě usnesení z 83. schůze konané dne 25. ledna 2018).
 
