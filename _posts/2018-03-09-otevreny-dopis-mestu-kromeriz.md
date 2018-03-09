@@ -11,6 +11,7 @@ tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
 
 <center>Otevřený dopis starostovi a místostarostovi města Kroměříže</center>
 
+
 V Kroměříži 6. března 2018
 
 
@@ -31,6 +32,6 @@ Ačkoliv víme, že zastupitelé města Kroměříže jednohlasně hlasovali pro
 Děkujeme Vám,
 
 
-Vratislav Krejčíř, předseda
 
+Vratislav Krejčíř, předseda
 Piráti Kroměříž, místní sdružení České pirátské strany
