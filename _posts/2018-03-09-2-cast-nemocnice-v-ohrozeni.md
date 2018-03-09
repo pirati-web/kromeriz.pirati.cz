@@ -9,7 +9,7 @@ image: assets/img/posts/nemocnice_web2.jpg
 tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
 ---
 
-2. část ze série článků
+2. část ze série článků o nemocnici v Kroměříži
 
 
 V pátek 9. února jsme vás informovali o záměrech, které má Zlínský kraj s naší nemocnicí. Na zasedání Zastupitelstva města Kroměříže byl přizván hejtman Čunek, aby vysvětlil kroky, které podle dokumentu Základní směry řízení nemocnic založených Zlínským krajem pro období 2018 – 2020 Kroměřížskou nemocnici, ale nejen ji, v budoucnu čekají. Hejtman Čunek, jakožto profesionální politik, mlžil, neodpovídal na položené otázky a odváděl řeč, tazatelé tak po setkání odcházeli snad s více otázkami, než přišli.
