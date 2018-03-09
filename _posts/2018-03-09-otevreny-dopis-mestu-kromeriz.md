@@ -5,11 +5,11 @@ title: 'Otevřený dopis starostovi a místostarostovi města Kroměříže'
 date: 2018-03-09T09:06:00.032Z
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
-image: /assets/img/posts/IMG_0871_web.jpg
+image: assets/img/posts/IMG-0549_web.jpg
 tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
 ---
 
-<center>Otevřený dopis starostovi a místostarostovi města Kroměříže</center>
+Otevřený dopis starostovi a místostarostovi města Kroměříže
 
 
 V Kroměříži 6. března 2018
