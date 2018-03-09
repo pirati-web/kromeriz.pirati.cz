@@ -9,7 +9,7 @@ image: assets/img/posts/nemocnice_web2.jpg
 tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
 ---
 
-3. část ze série článků
+3. část ze série článků o nemocnici v Kroměříži
 
 Hejtman Jiří Čunek víří emoce v Kroměříži. Už od minulého týdne vás průběžně informujeme o „koncepci“ zdravotnictví Zlínského kraje, kterou pro Zlínský krajský úřad zpracoval MUDr. Radomír Maráček. Bývalý ředitel Fakultní nemocnice Olomouc, je od 1. května 2017 ředitelem Baťovy nemocnice ve Zlíně a předsedou představenstev nemocnic Zlínského kraje. Nahradil tak předchozí, dle mnohých kontroverzně odvolané vedení Baťovy nemocnice. Koncepce, kterou Maráček spolu s Čunkem předkládají, však má více nedostatků než předností. Jakožto koncepční materiál je velmi problematická a hlasitě kritizována nejen zastupiteli města Kroměříže. I přesto Čunek tento počin plánuje předložit krajskému zastupitelstvu ke schválení na zasedání 23. dubna 2018.
 
