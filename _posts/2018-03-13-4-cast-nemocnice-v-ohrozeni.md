@@ -5,7 +5,7 @@ title: 'Budoucnost Kroměřížské nemocnice (4. část)'
 date: 2018-03-13T09:06:00.032Z
 author: Linda Švrčinová
 authorId: linda.svrcinova
-image: assets/img/posts/nemocnice_web2.jpg
+image: assets/img/posts/nemocnice_web4.jpg
 tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
 ---
 
