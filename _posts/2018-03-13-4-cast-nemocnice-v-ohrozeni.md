@@ -23,10 +23,10 @@ Piráti Kroměříž pro vás sledují celou kauzu, napsali jsme o ní několik 
 
 Odkazy:
 
-Otevřený dopis starostovi a místostarostovi města Kroměříže ( https://kromeriz.pirati.cz/aktuality/otevreny-dopis-mestu-kromeriz.html )
+Otevřený dopis starostovi a místostarostovi města Kroměříže https://kromeriz.pirati.cz/aktuality/otevreny-dopis-mestu-kromeriz.html
 
-Hejtmanův článek na Parlamentních listech ( https://www.parlamentnilisty.cz/profily/Jiri-Cunek-26/clanek/Nic-nerusime-dostupnost-zdravotni-pece-se-rozsiri-84751 )
+Hejtmanův článek na Parlamentních listech https://www.parlamentnilisty.cz/profily/Jiri-Cunek-26/clanek/Nic-nerusime-dostupnost-zdravotni-pece-se-rozsiri-84751/ 
 
-Lékaři nemocnice v Kroměříži: Kroměřížskou nemocnici nedáme ( https://www.parlamentnilisty.cz/arena/nazory-a-petice/Lekari-nemocnice-v-Kromerizi-Kromerizskou-nemocnici-nedame-527480 )
+Lékaři nemocnice v Kroměříži: Kroměřížskou nemocnici nedáme https://www.parlamentnilisty.cz/arena/nazory-a-petice/Lekari-nemocnice-v-Kromerizi-Kromerizskou-nemocnici-nedame-527480/ 
 
-Klub novinářů Zlín ( http://www.klubnovinaruzlin.cz/news/hejtman-cunek-uklidnoval-starosty-nic-nerusime-dostupnost-zdravotni-pece-se-rozsiri-pribydou-specializovana-oddeleni/ )
+Klub novinářů Zlín http://www.klubnovinaruzlin.cz/news/hejtman-cunek-uklidnoval-starosty-nic-nerusime-dostupnost-zdravotni-pece-se-rozsiri-pribydou-specializovana-oddeleni/
