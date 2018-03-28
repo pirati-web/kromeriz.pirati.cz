@@ -15,7 +15,7 @@ tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
 
 S tímto sebevědomým a pro tak závažnou situaci možná nemístně suverénním mottem prezentuje hejtman Zlínského kraje, Jiří Čunek (KDU-ČSL) kontroverzní koncepci zdravotnictví Zlínského kraje pro následující léta. Tu v únoru tohoto roku předložil krajskému zastupitelstvu a bez valného zájmu o názory odborné veřejnosti ji plánuje nechat schválit na dubnovém jednání zastupitelstva.
 
-O situaci kolem (nejen) Kroměřížské nemocnice, a.s. vás od počátku informujeme v naší sérii článků (k přečtení na https://kromeriz.pirati.cz). A nejsme zdaleka jediní. Naléhavost situace vyburcovala mnohé zastupitele, novináře, lékaře, další odbornou veřejnost i obyvatele Zlínského kraje k projevům nesouhlasu a odporu vůči plánovaným krokům a zásahům do našeho zdravotnictví. Sám hejtman Čunek však všem odpůrcům dává najevo, že je pro něj tato situace pouhou „bouří ve sklenici vody“. Okolo nejasné situace sám soustavně mlží, do médií pouští protichůdné informace, jeden týden ruší / zavírá to a ono, druhý týden naopak slibuje rozšíření oddělení. 
+O situaci kolem (nejen) Kroměřížské nemocnice, a.s. vás od počátku informujeme v naší sérii článků (k přečtení na https://kromeriz.pirati.cz ). A nejsme zdaleka jediní. Naléhavost situace vyburcovala mnohé zastupitele, novináře, lékaře, další odbornou veřejnost i obyvatele Zlínského kraje k projevům nesouhlasu a odporu vůči plánovaným krokům a zásahům do našeho zdravotnictví. Sám hejtman Čunek však všem odpůrcům dává najevo, že je pro něj tato situace pouhou „bouří ve sklenici vody“. Okolo nejasné situace sám soustavně mlží, do médií pouští protichůdné informace, jeden týden ruší / zavírá to a ono, druhý týden naopak slibuje rozšíření oddělení. 
 
 Nejasná a nečitelná situace se stává tíživou obzvláště pro samotné obyvatele, mezi které se v poslední době šíří informace zavádějící a nepravdivé. Obava vznikla i mezi kroměřížskými Piráty. Jak bude hájit zájmy Kroměříže náš jediný krajský zastupitel, Dr. Pavel Motyčka, který je sám členem Čunkovy KDU-ČSL? Obavy o dostatečně sebevědomé vyjádření nesouhlasu Kroměříže a jejich obyvatel nás vedly k zaslání otevřeného dopisu starostovi a místostarostovi města. Oba jsme žádali o uspořádání veřejné diskuse s hejtmanem Čunkem a autorem koncepce, MUDr. Radomírem Maráčkem, na které by mohla jak odborná veřejnost, tak i obyvatelé města vyjádřit jasně své stanovisko k chystaným zásahům do chodu naší nemocnice.
 
@@ -29,5 +29,5 @@ Na rozmyšlenou nebudou mít zlínští zastupitelé příliš mnoho času, jeli
 
 
 Odkazy:
-Otevřený dopis Pirátů Kroměříž starostovi a místostarostovi města (https://kromeriz.pirati.cz/aktuality/otevreny-dopis-mestu-kromeriz.html)
-Okno do kraje, březen 2018 (https://www.oknodokraje.cz) 
+Otevřený dopis Pirátů Kroměříž starostovi a místostarostovi města ( https://kromeriz.pirati.cz/aktuality/otevreny-dopis-mestu-kromeriz.html )
+Okno do kraje, březen 2018 ( https://www.oknodokraje.cz ) 
