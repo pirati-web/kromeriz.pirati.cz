@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Koncepci zdravotnictví Čuněk doplní, schvalovat se bude (5. část)'
-date: 2018-03-2713T09:06:00.032Z
+date: 2018-03-27T09:06:00.032Z
 author: Linda Švrčinová
 authorId: linda.svrcinova
 image: assets/img/posts/nemocnice_web4.jpg
