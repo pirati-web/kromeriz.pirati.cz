@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: 'Nemocnice volá po navýšení počtu lůžek, odpovědí kraje jsou škrty a slučování (2. část)'
 date: 2018-02-09T09:06:00.032Z
-author: Linda Švrčinová
-authorId: linda.svrcinova
+author: Linda Matušková
+authorId: linda.matuskova
 image: assets/img/posts/nemocnice_web2.jpg
 tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
 ---
