@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: 'Kroměřížská radnice nemocnici nedá? (3. část)'
 date: 2018-02-16T09:06:00.032Z
-author: Linda Švrčinová
-authorId: linda.svrcinova
+author: Linda Matušková
+authorId: linda.matuskova
 image: assets/img/posts/nemocnice_web2.jpg
 tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
 ---
