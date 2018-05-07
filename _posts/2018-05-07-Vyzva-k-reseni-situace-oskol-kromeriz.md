@@ -5,7 +5,7 @@ title: 'Výzva k řešení situace na sídlišti Oskol v Kroměříži'
 date: 2018-05-07T09:06:00.032Z
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
-image: assets/img/posts/IMG-0549_web.jpg
+image: assets/img/posts/nase-kromeriz-bezposkol.jpg
 tags: 'Kroměříž radnice oskol obavy obcane'
 ---
 
