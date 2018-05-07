@@ -32,5 +32,7 @@ Děkujeme Vám,
 
 
 Vratislav Krejčíř, předseda
+
 Piráti Kroměříž, místní sdružení České pirátské strany
+
 vratislav.krejcir@pirati.cz, tel.: +420 731 501 650
