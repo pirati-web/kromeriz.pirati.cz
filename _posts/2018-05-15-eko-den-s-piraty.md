@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Piráti obsadili břeh kroměřížského „moře“'
-date: 2018-05-158T09:06:00.032Z
+date: 2018-05-15T09:06:00.032Z
 author: Linda Matušková
 authorId: linda.matuskova
 image: assets/img/posts/ekoden.jpg
