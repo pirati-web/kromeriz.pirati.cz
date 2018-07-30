@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
-description: předseda MS KM, IT správce # kratký popis, max 160 znaků
+description: předseda MS KM, ředitel divize eMobility # kratký popis, max 160 znaků
 mail:
 - vratislav.krejcir@pirati.cz
 profiles:
