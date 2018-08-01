@@ -5,7 +5,7 @@ title: 'Představení kandidátů pro komunální volby 2018 - Vratislav Krejč�
 date: 2018-08-01T04:44:00.032Z
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
-image: assets/img/posts/vratislav-krejcir-pk.jpg
+image: assets/img/posts/vratislav-krejcir-pk2m.jpg
 tags: 'Kroměříž pirati radnice volby kandidatka lídr'
 ---
 
