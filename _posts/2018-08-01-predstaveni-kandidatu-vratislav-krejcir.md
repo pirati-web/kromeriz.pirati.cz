@@ -9,7 +9,7 @@ image: assets/img/posts/vratislav-krejcir-pk2m.jpg
 tags: 'Kroměříž pirati radnice volby kandidatka lídr'
 ---
 
-Je mi 36let a jsem celoživotní optimista, který se snaží svůj pozitivní přístup přenášet do všeho, co dělá, a předávat ho i lidem kolem sebe.
+Je mi 36 let a jsem celoživotní optimista, který se snaží svůj pozitivní přístup přenášet do všeho, co dělá, a předávat ho i lidem kolem sebe.
 
 Můj profesní život se celou dobu točí kolem moderních technologií, které mě baví a tak nějak mě "pronásledují". V současné době jsem ředitel divize eMobility v jedné soukromé kroměřížské společnosti, která se snaží prostřednictvím rozvoje elektromobility v České republice přispět k lepšímu a čistšímu životnímu prostředí. 
 V soukromí jsem tak trochu Jedi (hrdý otec) a spolu se svou ženou vychovávám 2 malé padavany (děti) ;-) 
