@@ -15,7 +15,7 @@ profiles:
 ordpms: 3
 ---
 
-Hana Ančincová (*18. srpna 1989, Vimperk) je členkou krajského sdružení Zlínského kraje. Velkou část svého života bydlela v Kroměříži, ale od roku 2015 přesídlila do Hulína. V místním sdružení Piráti Kroměříž se stará o administrativní záležitosti.
+Hana Ančincová (*18. srpna 1989, Vimperk) je členkou krajského sdružení Zlínského kraje. V místním sdružení Piráti Kroměříž se stará o administrativní záležitosti.
 
 Vystudovala obor Finance a právo na Ekonomicko-správní fakultě v Brně. V současné době studuje obor Bezpečnostní technologie, systémy a management na Fakultě aplikované informatiky Univerzity Tomáše Bati ve Zlíně.
 
