@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Představení kandidátů pro komunální volby 2018 - Linda Matušková'
-date: 2018-08-06T04:44:00.032Z
+date: 2018-08-013T04:44:00.032Z
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
 image: assets/img/posts/linda_matuskova_web.jpg
