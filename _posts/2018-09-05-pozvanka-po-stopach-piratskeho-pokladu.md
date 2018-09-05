@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Po stopách pirátského pokladu'
-date: 2018-08-05T04:44:00.032Z
+date: 2018-09-05T04:44:00.032Z
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
 image: assets/img/posts/patracka.jpg
