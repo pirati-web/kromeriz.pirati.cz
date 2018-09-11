@@ -5,6 +5,7 @@ fullname: Petr Stoklasa  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - pms
 - clenove
+- kandidat
 
 img: people/petr-stoklasa.jpg   # 165 x 220
 description: 1. místopředseda MS KM, obchodník # kratký popis, max 160 znaků
