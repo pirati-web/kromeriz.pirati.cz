@@ -4,6 +4,7 @@ name:     Linda Matušková  	# běžně používáné jméno
 fullname: PhDr. Linda Matušková, Ph.D.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
 
 img: people/linda-matuskova.jpg   # 165 x 220
 description: VŠ pedagog, fotografka # kratký popis, max 160 znaků
