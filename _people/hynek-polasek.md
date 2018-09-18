@@ -4,6 +4,7 @@ name:     Hynek Polášek  	# běžně používáné jméno
 fullname: Hynek Polášek 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
 
 img: people/hynek-polasek.jpg   # 165 x 220
 description: Správce IT # kratký popis, max 160 znaků
