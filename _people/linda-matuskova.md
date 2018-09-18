@@ -12,7 +12,8 @@ mail:
 - linda.matuskova@pirati.cz
 profiles:
   facebook: https://www.facebook.com
-ordkandidat: 1
+ordkandidat: 4
+
 ---
 
 PhDr. Linda Matušková, Ph.D. (*31. prosince 1982, Kroměříž) je členkou MS Piráti Kroměříž.
