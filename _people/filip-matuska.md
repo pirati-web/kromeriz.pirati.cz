@@ -4,6 +4,7 @@ name:     Filip Matuška  	# běžně používáné jméno
 fullname: Mgr. Filip Matuška 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
 
 img: people/filip-matuska.jpg   # 165 x 220
 description: fotograf # kratký popis, max 160 znaků
