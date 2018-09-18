@@ -5,6 +5,7 @@ fullname: Hana Ančincová 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - pms
+- kandidat
 
 img: people/hana-ancincova.jpg   # 165 x 220
 description: 2. místopředsedkyně MS KM, finanční kontrolorka # kratký popis, max 160 znaků
