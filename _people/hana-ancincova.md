@@ -14,6 +14,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/hanka.ancincova
 ordpms: 3
+ordkandidat: 3
 ---
 
 Hana Ančincová (*18. srpna 1989, Vimperk) je členkou krajského sdružení Zlínského kraje. V místním sdružení Piráti Kroměříž se stará o administrativní záležitosti.
