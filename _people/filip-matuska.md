@@ -12,6 +12,8 @@ mail:
 - filip.matuska@pirati.cz
 profiles:
   facebook: https://www.facebook.com/filip.matuska
+ 
+ordkandidat: 6
 ---
 
 Jmenuji se Filip Matuška (*22. července 1985, Brno) a jsem členem MS Piráti Kroměříž. Ačkoliv jsem se narodil v moravské metropoli, pobýval jsem zde jen krátce a většinu života jsem prožil v Kroměříži.
