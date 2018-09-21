@@ -5,7 +5,7 @@ title: 'Voda patří obcím'
 date: 2018-09-21T04:44:00.032Z
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
-image: assets/img/posts/proti_privatizaci_vaku.jpg
+image: assets/img/posts/proti_privatizaci_vak.jpg
 tags: 'Kroměříž pirati voda vak '
 ---
 
