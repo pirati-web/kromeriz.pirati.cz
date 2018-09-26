@@ -11,7 +11,7 @@ mail:
 - jakub.zach@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zachjakub
-  ordkandidat: 5
+ordkandidat: 5
 ---
 
 Ing. arch. Jakub Zach (*6. července 1984, Kroměříž) je členem KS Zlínský kraj a MS Kroměříž. Je rodák a obyvatel Kroměříže.
