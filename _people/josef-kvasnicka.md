@@ -5,7 +5,7 @@ fullname: Josef Kvasnička  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - pms
-
+- kandidat
 img: people/josef-kvasnicka.jpg   # 165 x 220
 description: 3. místopředseda MS KM, konstruktér # kratký popis, max 160 znaků
 mail:
@@ -13,6 +13,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/josef.kvasnicka.3
 ordpms: 4
+ordkandidat: 11
 ---
 
 Josef Kvasnička (*18. dubna 1984, Kroměříž) žije v Kroměříži. Maturitu absolvoval na COPT Kroměříž obor Mechatronik.
