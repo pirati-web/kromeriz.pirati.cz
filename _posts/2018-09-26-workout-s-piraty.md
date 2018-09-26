@@ -16,5 +16,4 @@ Večer patřil hudbě a dobrému jídlu. Pozvali jsme pro vás kapely Rousing Nu
 
 Ačkoliv si po ránu trochu zabrblalo počasí, nakonec se umoudřilo a celý den byl přesně takový, jaký jsme si na workoutovou akci mohli jen přát! Jsme moc rádi, že se našich akcí zúčastňujete spolu se svými dětmi a berete je jako možnost kvalitně stráveného společného času. Díky Vám je pro nás naše "práce" o to větší radostí!
 
-Galerii si můžete prohlédnout zde:
-https://www.facebook.com/pg/piratikromeriz/photos/?tab=album&album_id=2267929950110242
+Galerii si můžete prohlédnout [ZDE](https://www.facebook.com/pg/piratikromeriz/photos/?tab=album&album_id=2267929950110242)
