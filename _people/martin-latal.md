@@ -4,6 +4,7 @@ name:     Martin Látal  	# běžně používáné jméno
 fullname: Martin Látal  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
 
 img: people/martin-latal.jpg   # 165 x 220
 description: autoelektrikář # kratký popis, max 160 znaků
@@ -11,6 +12,7 @@ mail:
 - martin.latal@pirati.cz
 profiles:
   facebook: https://www.facebook.com/martin.latal.39
+  ordkandidat: 16
 ---
 
 Martin Látal (*30. dubna 1983, Přílepy) je šťastně ženatý a otec dvou dětí. Vystudoval obor slaboproudá elektrotechnika, který zakončil maturitní zkouškou.
