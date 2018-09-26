@@ -4,6 +4,7 @@ name:     Jan Buksa  	# běžně používáné jméno
 fullname: Jan Buksa  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
 
 img: people/jan-buksa.jpg   # 165 x 220
 description: autoelektrikář # kratký popis, max 160 znaků
@@ -11,6 +12,7 @@ mail:
 - jan.buksa@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jan.buksa.96
+  ordkandidat: 18
 ---
 
 Jan Buksa (*5. října 1980, Kroměříž) je otec jednoho dítěte.
