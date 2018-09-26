@@ -4,6 +4,7 @@ name:     Pavel Kučera  	# běžně používáné jméno
 fullname: Pavel Kučera  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
 
 img: people/pavel-kucera.jpg   # 165 x 220
 description: montážní a servisní technik # kratký popis, max 160 znaků
@@ -11,6 +12,7 @@ mail:
 - pavel.kucera@pirati.cz
 profiles:
   facebook: https://www.facebook.com/paja.kuca
+  ordkandidat: 13
 ---
 
 Pavel Kučera (*17. února 1984, Kroměříž) je členem MS Kroměříž.
