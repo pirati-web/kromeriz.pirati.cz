@@ -12,7 +12,8 @@ mail:
 - patrik.marcian@pirati.cz
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100010126650786
-  ordkandidat: 21
+  
+ordkandidat: 21
 ---
 
 Patrik Marcián (*28. srpna 1986, Vsetín) je 4. místopředsedou MS Kroměříž. Bydlí ve Zlobicích, kde s přítelkyní zrekonstruoval dům. Mám čtyřletou dceru a nyní s přítelkyní čeká druhé dítě.
