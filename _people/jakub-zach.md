@@ -14,10 +14,8 @@ profiles:
 ordkandidat: 5
 ---
 
-Ing. arch. Jakub Zach (*6. července 1984, Kroměříž) je členem KS Zlínský kraj a MS Kroměříž. Je rodák a obyvatel Kroměříže.
+Ahoj, dobrý den. Je mi 34 let a jsem rodák z Kroměříže. Ačkoliv mě život zavál do různých koutů světa, stále se nejraději vracím do rodné Kroměříže. Živím se jako architekt, ale ve svém volném čase rád čtu, hraji squash, plavu a dále příležitostně fotím nebo bloguji o současné architektuře.
 
-Vystudoval VUT Brno, obor architektura a urbanismus. Po studiích nabíral praxi u českých i zahraničních firem v oblasti jak navrhování, tak i realizace staveb. V současné době podniká jako architekt s působností po celé jihovýchodní Moravě. V rámci své praxe řešil například problematiku znovuvyužití zanedbaných a nevyužívaných městských celků (brownfieldů) a jejich nové praktické využití jak na teoretické, tak i praktické úrovni. Kromě práce architekta je příležitostný blogger komentující současnou politickou situaci, dění v oblasti architektury, dále pak fotograf a grafik. Jako urbanista se zajímá o geografické a sociologické problémy města a jeho obyvatel v závislosti na uspořádání města a jeho jednotlivých celků.   
+Jedno z poslání mé profese architekta je pracovat na zlepšení prostředí, ve kterém lidé žijí. Své zkušenosti z praxe, jako například jednání s úřady a institucemi, bych chtěl zúročit mimo jiné i ve prospěch rodného města v rámci práce v zastupitelstvu.
 
-Kromě toho rád navštěvuje kulturní a sportovní akce, rád cestuje a objevuje nová místa. Ze sportovních aktivit nejraději plave a dříve velmi aktivně hrál squash.
-
-Příznivcem Pirátů je od roku 2017. ve stejném roce se stal i členem.
+Kandiduji za Piráty, protože aktivně komunikují s občany a naslouchají jim. Jako jedna z mála (možná i jediná) stran celoročně pořádá komunitní akce a její členové se ve svém volném čase věnují dobrovolnické činnosti s cílem zlepšovat jejich/naše město. Chtěl bych se podílet na zjednodušení byrokracie na úřadech a zlepšit komunikaci radnice s občany. Rád bych pracoval na aktivnějším přístupu města v rámci sportovních, kulturních a vzdělávacích akcí ve městě a jeho blízkém okolí. To by vedlo ke zvýšení atraktivity města a kvality života v něm.
