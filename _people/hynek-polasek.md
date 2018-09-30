@@ -13,7 +13,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com
   
-ordkandidat: 7
+ordkandidat: 8
 ---
 
 Hynek Polášek (*28. listopadu 1986, Kroměříž) pracuje jako Správce systémů na rektorátu VUT v Brně.
