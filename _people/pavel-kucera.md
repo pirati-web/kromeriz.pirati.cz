@@ -12,7 +12,8 @@ mail:
 - pavel.kucera@pirati.cz
 profiles:
   facebook: https://www.facebook.com/paja.kuca
-  ordkandidat: 13
+  
+ordkandidat: 13
 ---
 
 Pavel Kučera (*17. února 1984, Kroměříž) je členem MS Kroměříž.
