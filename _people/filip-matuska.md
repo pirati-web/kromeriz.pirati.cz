@@ -16,9 +16,10 @@ profiles:
 ordkandidat: 6
 ---
 
-Jmenuji se Filip Matuška (*22. července 1985, Brno) a jsem členem MS Piráti Kroměříž. Ačkoliv jsem se narodil v moravské metropoli, pobýval jsem zde jen krátce a většinu života jsem prožil v Kroměříži.
+Zdravím a pozdravuji :) Jmenuji se Filip Matuška, je mi 33 let a v Kroměříži bydlím už nějaký ten pátek. Jsem Pirát a proevropský liberální demokrat. Opravdu hodně nemám rád komunisty a převlečené komunisty, ty nemám rád ještě víc.
 
-Jsem absolvent Střední policejní školy MV v Holešově, v roce 2010 jsem získal titul Mgr. v oboru Sociální pedagogika na Univerzitě Tomáše Bati ve Zlíně.
-Pracoval jsem jako vedoucí a sociální pracovník v Azylovém domě pro matky s dětmi v tísni v Kojetíně, poté jako sociální pracovník v Sociální rehabilitaci Zahrada v Kroměříži. V roce 2012 jsem se stal také živnostníkem. Svobodný duch života podnikatelského nakonec vítězí nad jistotou mrzkého výdělku (díky této zkušenosti spatřuje prostor ke zlepšení podmínek poskytování sociálních služeb).
+Vystudoval jsem obor sociální pedagogika a delší dobu jsem pracoval v místních sociálních službách. Díky tomu mám přehled a poměrně konkrétní představu, co by naše město v této oblasti potřebovalo – jak je důležité zaměřit se na podporu služeb stávajících, ale také budovat služby nové. Posledních pár let jsem hlavně svatebním a rodinným fotografem.
 
-Jsem milovníkem filmu, elektronické hudby, knih, léta a teplého počasí, nekorektního humoru, fotografie, pop artu a CrossFitu. Povahou introvertní neurotik, občasný prudič, Rak, politickým zaměřením proevropský liberální demokrat. O politické dění jsem se zajímal již při studiích, nicméně současná nedobrá politická a především morální situace mě donutila aktivně se do politického dění zapojit, protože, jak říkal Andy Dufresne: "Naděje je dobrá věc, ta nejlepší ze všech. A dobrá věc nikdy nezemře." Tudíž jsem již nějaký ten pátek právoplatným Pirátem.
+Jsem nositelem (prý trochu nepříjemné) vlastnosti věcně vystihnout a pojmenovat to, co nefunguje úplně tak, jak by mělo. :) Této své superschopnosti bych chtěl využít a zužitkovat v zastupitelstvu města. Mohli bychom tak spolu s ostatními mými kolegy Piráty povýšit Kroměříž z „krásného města“ na krásné město, kde se dobře žije všem věkovým skupinám, kde se pracuje se všemi znevýhodněnými skupinami, ale také na město, kudy obyvatelé a turisté jen neprochází, ale které žije natolik atraktivně, že je láká, aby zůstali déle.
+
+Čeká nás fůra práce, ale začít se vždy musí prvním krokem… Tak buďte dobří a běžte pak vyjádřit svůj názor, ať už je jakýkoliv, k volbám. Rád Vás poznám osobně na některé z našich veřejných schůzí nebo na některé z akcí Pirátů.
