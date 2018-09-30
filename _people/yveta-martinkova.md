@@ -13,7 +13,8 @@ mail:
 - yveta.martinkova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/yf.even
-  ordkandidat: 9
+  
+ordkandidat: 9
 ---
 
 Yveta Martinková (*24. ledna 1979, Kroměříž) je od srpna 2017 Pirátkou a v listopadu 2017 se stala jednou ze zakladatelů místního sdružení Pirátů Kroměříž.
