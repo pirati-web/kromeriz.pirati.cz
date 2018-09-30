@@ -16,7 +16,7 @@ profiles:
 ordkandidat: 6
 ---
 
-Zdravím a pozdravuji :) Jmenuji se Filip Matuška, je mi 33 let a v Kroměříži bydlím už nějaký ten pátek. Jsem Pirát a proevropský liberální demokrat. Opravdu hodně nemám rád komunisty a převlečené komunisty, ty nemám rád ještě víc.
+Jmenuji se Filip Matuška, je mi 33 let a v Kroměříži bydlím už nějaký ten pátek. Jsem Pirát a proevropský liberální demokrat. Opravdu hodně nemám rád komunisty a převlečené komunisty, ty nemám rád ještě víc.
 
 Vystudoval jsem obor sociální pedagogika a delší dobu jsem pracoval v místních sociálních službách. Díky tomu mám přehled a poměrně konkrétní představu, co by naše město v této oblasti potřebovalo – jak je důležité zaměřit se na podporu služeb stávajících, ale také budovat služby nové. Posledních pár let jsem hlavně svatebním a rodinným fotografem.
 
