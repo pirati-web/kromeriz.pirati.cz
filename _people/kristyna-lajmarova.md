@@ -7,8 +7,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/kristyna-lajmarova.jpg   # 165 x 220
-description: Jednatelka # kratký popis, max 160 znaků
-
+description: Ortotik-protetik # kratký popis, max 160 znaků
 profiles:
   facebook: https://www.facebook.com/
   
