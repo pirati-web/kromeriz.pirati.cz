@@ -16,13 +16,14 @@ ordkandidat: 4
 
 ---
 
-PhDr. Linda Matušková, Ph.D. (*31. prosince 1982, Kroměříž) je členkou MS Piráti Kroměříž.
+Jmenuji se Linda Matušková a v Kroměříži jsem dříve byla známá hlavně jako břitce vtipná asistentka fotografa Filipa Matušky, teď už jsem si, doufám, vybudovala vlastní identitu newborn fotografky.
 
-Jakožto nadšená sběratelka akademických titulů navázala po absolvování kroměřížské Střední pedagogické školy poměrně zdlouhavým studiem na Univerzitě Palackého v Olomouci. V roce 2013 dosáhla získáním titulu Ph.D. zdařilého akademického hattricku v oboru Pedagogika.
+Už tomu bude 36 let, co jsem se narodila v našem malebném městě. Poté, co jsem absolvovala místní střední pedagogickou školu, se ze mě stala nadšená sběratelka akademických titulů a po poměrně zdlouhavém, téměř 10letém studiu na Univerzitě Palackého v Olomouci jsem v roce 2013 dosáhla získáním titulu Ph.D. zdařilého akademického hattricku v oboru Pedagogika.
 
-Vášnivá milovnice dobré kávy, oddaná fanynka premiéra Jima Hackera, neúspěšná aspirantka na studia žurnalistiky. Nadšená konzumentka britského humoru (pro ten český má porozumění méně).
-Dřívější povolání akademického pracovníka vystřídala profese mámy dvou (skoro)dvojčat, newborn fotografky a (prozatím) nadšené podnikatelky.
+Pedagogice jsem se rozhodla věnovat i nadále, a tak jsem už v průběhu doktorského studia působila jako odborný asistent na Pedagogické fakultě. Bylo to zážitky nabitých 10 let života, které mi daly možnost cestovat po světě, přednášet na zahraničních univerzitách, setkávat se s mnohými inspirujícími osobnostmi, učit se nové věci, poznávat nové přístupy k mé práci a profesní specializaci. Stal se ze mě díky tomu takový lehce idealistický kosmopolita – amatér. Vždy mě ale fascinovala síla a moc lidského pozitivismu, otevřenosti a víry v sebe sama a své schopnosti. Takto naladění lidé se zdají být neporazitelní, nevyčerpatelní a velmi úspěšní ve své práci.
 
-Profesní aktivity ji přivedly do rozmanitých končin světa, v rámci akademického působení navštívila mnoho zahraničních univerzit, na kterých nejen předávala poznatky naše, ale především zjišťovala, že to jinde jde jinak a (bohužel) většinou daleko lépe než v milované domovině. Aktivně se podílela na mnohých projektech zaměřených obzvláště na dětská práva, sociálně-právní ochranu dětí a náhradní rodinnou péči.
+Roli vysokoškolského učitele a nadšeného světoběžníka vystřídala role mámy. Kromě toho jsem také podnikatelkou, oddanou fanynkou britského premiéra Jima Hackera, neúspěšnou aspirantkou na studia žurnalistiky. A vášnivou milovnicí dobré kávy, hlavně té z naší kroměřížské pražírny.
 
-Příznivkyní Pirátů je vlastně odjakživa, ke vstupu do MS Piráti Kroměříž ji v roce 2018 přiměla aktuální politická situace a naděje, že se s tím snad ještě dá něco udělat...
+Moje představa fungování města Kroměříže a místní politiky je hlavně v otevřené komunikaci s jejími obyvateli, srozumitelnosti a vstřícnosti. Vždyť volenými zástupci nejsme jen před volbami, kdy slibem nezarmoutíš. Ráda bych jednou žila ve městě, které bude dobře fungující komunitou. Možnosti zlepšení spatřuji, možná díky svému profesnímu zaměření, v prorodinné politice města, podpoře (pracujících) maminek, podpoře jejich podnikatelských záměrů, v navýšení kapacit a rozšíření možností výchovy a vzdělávání dětí, prohloubení přístupu ke zdravotnické péči…
+
+Politické názory mám pevné, věkem a zkušenostmi formulované a vybroušené. Jsem pozitivně smýšlející liberál sympatizující s pirátskými myšlenkami a nadějí, že se otěže politiky dají uchopit a vést šimla nadějnou cestou.
