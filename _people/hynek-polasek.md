@@ -12,6 +12,8 @@ mail:
 - hynek.polasek@pirati.cz
 profiles:
   facebook: https://www.facebook.com
+  
+ordkandidat: 7
 ---
 
 Hynek Polášek (*28. listopadu 1986, Kroměříž) pracuje jako Správce systémů na rektorátu VUT v Brně.
