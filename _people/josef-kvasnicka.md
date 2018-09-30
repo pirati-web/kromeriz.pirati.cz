@@ -12,6 +12,7 @@ mail:
 - josef.kvasnicka@pirati.cz
 profiles:
   facebook: https://www.facebook.com/josef.kvasnicka.3
+  
 ordpms: 4
 ordkandidat: 11
 ---
