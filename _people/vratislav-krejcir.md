@@ -10,6 +10,7 @@ category:                   # kategorie: clenove
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
 description: předseda MS KM, ředitel divize eMobility, hrdý otec a optimista # kratký popis, max 160 znaků
+mob:			  +420 731 501 650
 mail:
 - vratislav.krejcir@pirati.cz
 profiles:
