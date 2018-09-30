@@ -16,10 +16,13 @@ profiles:
 ordkandidat: 8
 ---
 
-Hynek Polášek (*28. listopadu 1986, Kroměříž) pracuje jako Správce systémů na rektorátu VUT v Brně.
+Jmenuji se Hynek Polášek, narodil jsem se před 31 lety a vyrůstal v kopcích nad Kroměříží. Láska k technice mě provedla přes bývalé učiliště PALu až k práci v informatice na Vysokém učení technickém v Brně. 
 
-Vyrostl v Chřibech na Kvasicku. V mládí se přestěhoval přímo do Kroměříže. Zde Odmaturoval na COPT Kroměříž jak elektrotechnik. Později přešel na VUT do Brna. Pracoval ve Fakultní nemocnici u Sv. Anny odkud přešel Centrální informatiku VUT. V obou získával praxi s nákupy IT do státního sektoru a se zákonem o veřejných zakázkách.
+A právě praxe v oblasti informatiky ve státních institucích mě přivedla k myšlence, že je velmi důležité, aby v dnešní době, kdy se největším bohatstvím stávají data, byli odborníky ti, kteří nakonec schvalují zakázky a rozhodují o nich. Je třeba změnit přístup k datům, aby nedocházelo k odtoku gigantických balíků peněz. Změna musí nastat nejen na národní úrovni, ale také na úrovni lokální. Je třeba vést úředníky k tomu, aby si zvykli, že jim i radním města bude vidět pod ruce, že je jejich práce transparentní.
 
-Od střední školy se věnoval šermu a a spolupodílel se na chodu několika občanských spolků zaměřených na organizování volnočasových akcí pro mládež (tzv. larpů).
+S Piráty spolupracuji téměř po celou dobu jejich existence. A je to pro mě z výše uvedených důvodů zcela přirozené. Po téměř deseti letech mě přesvědčili o svých principech, o transparentnosti, její užitečnosti a realizovatelnosti. Nejlepším důkazem jsou města, jejichž obyvatelé již Pirátům důvěru dali. 
 
-Registrovaným příznivcem Pirátů je od roku 2011, od kdy v nich vidí naději na řešení úniků peněz státu přes špatné IT projekty.
+Pokud mi umožníte pro Kroměříž pracovat, bude má práce odvedena tak, abych jednou, až se nakonec setkám s Karlem Krylem, mohl o Kroměříži hovořit jako o místě, kterému by odpustil nepěkné dětství a kde by se klidně narodil znovu.
+
+Naše generace má náskok v tom, že už automaticky chceme mít informace snadno dohledatelné. Pro nás už je transparentnost hudbou přítomnosti.
+
