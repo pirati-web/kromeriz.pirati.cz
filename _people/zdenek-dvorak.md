@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/zdenek-dvorak.jpg   # 165 x 220
-description: Provozní # kratký popis, max 160 znaků
+description: OSVČ # kratký popis, max 160 znaků
 
 profiles:
   facebook: https://www.facebook.com/
