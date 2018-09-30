@@ -12,7 +12,8 @@ mail:
 - martin.latal@pirati.cz
 profiles:
   facebook: https://www.facebook.com/martin.latal.39
-  ordkandidat: 16
+  
+ordkandidat: 16
 ---
 
 Martin Látal (*30. dubna 1983, Přílepy) je šťastně ženatý a otec dvou dětí. Vystudoval obor slaboproudá elektrotechnika, který zakončil maturitní zkouškou.
