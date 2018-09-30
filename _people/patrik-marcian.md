@@ -16,8 +16,11 @@ profiles:
 ordkandidat: 21
 ---
 
-Patrik Marcián (*28. srpna 1986, Vsetín) je 4. místopředsedou MS Kroměříž. Bydlí ve Zlobicích, kde s přítelkyní zrekonstruoval dům. Mám čtyřletou dceru a nyní s přítelkyní čeká druhé dítě.
+Narodil jsem se v roce 1986 ve Vsetíně, ale už nějakou dobu bydlím se svou rodinou ve Zlobicích. Jsem šťastným otcem čtyřleté dcery a měsíčního chlapečka. Také jsem 4. místopředsedou místního sdružení Piráti Kroměříž.
 
-Ve financích dělá 10 let, dříve pořádal taneční párty. Má vystudovaný obor kuchař a následně dodělanou maturitu v oboru podnikání. Hraje hokej 23 let, dále jej velmi baví tenis a automobilismus.
+Vystudoval jsem obor kuchař a poté jsem se věnoval studiu podnikání. Už 10 let pracuji v oblasti financí. Rád hraji hokej, kterému se věnuji už 23 let, baví mě tenis a automobilismus.
 
-Do České pirátské strany šel před volbami v roce 2017 po dlouholetém fandění straně. Důvodem je, že i politika se dá dělat jinak a transparentně. Plně souhlasí s programem strany.
+Do politiky a do České pirátské strany  jsem se rozhodl vstoupit před volbami v roce 2017. Na Pirátech se mi líbí, že se politika dá dělat i jinak, transparentně. Pirátům jsem fandil už dlouho před mým vstupem do strany, plně se ztotožňuji s jejich programem.
+
+Kroměříž je krásné město, nejen proto si zaslouží poctivé vedení politiky, zapojení jejích občanů do témat, která je trápí. Rád bych v politice “pracoval” tak, aby byly moje děti hrdé na to, co jsem/jsme pro ně udělali a nemuseli se za to naopak stydět :)
+
