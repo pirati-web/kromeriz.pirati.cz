@@ -1,7 +1,7 @@
 ---
 uid: hana.ancincova
 name:     Hana Ančincová  	# běžně používáné jméno
-fullname: Hana Ančincová 	# jméno s tituly etc.
+fullname: Bc. Hana Ančincová 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - pms
