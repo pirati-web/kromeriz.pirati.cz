@@ -9,8 +9,8 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
-description: předseda MS KM, ředitel divize eMobility, hrdý otec a optimista # kratký popis, max 160 znaků
-mob:			  +420 731 501 650
+description: předseda MS KM, místostarosta města Kroměříž, hrdý otec a optimista # kratký popis, max 160 znaků
+mob:			  +420 776 666 144
 mail:
 - vratislav.krejcir@pirati.cz
 profiles:
