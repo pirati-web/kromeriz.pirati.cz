@@ -24,3 +24,9 @@ A tak ve vedení kroměřížské nemocnice už sedí ekonom a projektový mana�
 Nezbývá, než poděkovat MUDr. Mergenthalové za její práci nejen pro nemocnici, ale vlastně pro nás všechny - kroměřížské pacienty.
 
 A co vy na to? Těšíte se, až budeme s každou zdravotní lapálií dojíždět z okrajových částí spádové oblasti do Zlína? S vědomím komplikovanosti dojíždění do krajského města si říkám, že některým pacientům by Čunek mohl rovnou proplácet i cesťák...
+
+
+(1) VEČERKOVÁ, Renáta. “Šlo o to, zda zůstanu já, nebo ředitelka,” připustil Maráček. Zlínský deník, 7.2.2019 (online). Dostupné z www:https://zlinsky.denik.cz/zpravy_region/slo-o-to-zda-zustanu-ja-nebo-reditelka-pripustil-maracek-20190206.html?fbclid=IwAR3xrE3itqMORFXGPC7ABcdihkSlSW4-yyKS8vqQhDEZc-2Yf2wSc_sWOks .
+(2) Podklad k jednání Zastupitelstva města Kroměříže (http://verejne.mesto-kromeriz.cz/zmk-pro-obcany/download.files.php?url=2014-2018%2FXXXIII%2F04-02+Koncepce+zdravotnictví+Zlínského+kraje+.pdf&ref=zastupitelstvo).
+(3) Valná hromada odvolala ředitelku nemocnice Lenku Mergenthalovou, nahradí ji Petr Liškář. Kroměřížská nemocnice (online). Dostupné z:http://www.nem-km.cz/579-valna-hromada-odvolala-reditelku-nemocnice-lenku-mergenthalovou-nahradi-ji-petr-liskar.html
+(4) FUKSOVÁ, Jana. Pacient bude jezdit za lékařskou péčí, ne opačně, říká hejtman Čunek. Idnes, 19.12.2017 (online). Dostupné z:https://www.idnes.cz/zlin/zpravy/jiri-cunek-hejtman-nemocnice-zlin.A171218_371306_zlin-zpravy_ras.
