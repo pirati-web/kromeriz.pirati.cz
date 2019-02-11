@@ -27,6 +27,9 @@ A co vy na to? Těšíte se, až budeme s každou zdravotní lapálií dojížd�
 
 
 <a href="https://zlinsky.denik.cz/zpravy_region/slo-o-to-zda-zustanu-ja-nebo-reditelka-pripustil-maracek-20190206.html?fbclid=IwAR3xrE3itqMORFXGPC7ABcdihkSlSW4-yyKS8vqQhDEZc-2Yf2wSc_sWOks" target="_blank">(1) VEČERKOVÁ, Renáta. “Šlo o to, zda zůstanu já, nebo ředitelka,” připustil Maráček. Zlínský deník, 7.2.2019 (online)</a>
+
 <a href="http://verejne.mesto-kromeriz.cz/zmk-pro-obcany/download.files.php?url=2014-2018%2FXXXIII%2F04-02+Koncepce+zdravotnictví+Zlínského+kraje+.pdf&ref=zastupitelstvo" target="_blank">(2) Podklad k jednání Zastupitelstva města Kroměříže </a>
+
 <a href="http://www.nem-km.cz/579-valna-hromada-odvolala-reditelku-nemocnice-lenku-mergenthalovou-nahradi-ji-petr-liskar.html" target="_blank">(3) Valná hromada odvolala ředitelku nemocnice Lenku Mergenthalovou, nahradí ji Petr Liškář. Kroměřížská nemocnice (online)</a>
+
 <a href="https://www.idnes.cz/zlin/zpravy/jiri-cunek-hejtman-nemocnice-zlin.A171218_371306_zlin-zpravy_ras" target="_blank">(4) FUKSOVÁ, Jana. Pacient bude jezdit za lékařskou péčí, ne opačně, říká hejtman Čunek. Idnes, 19.12.2017 (online)</a>
