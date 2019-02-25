@@ -7,6 +7,7 @@ author: Jaroslav Takáč
 authorId: jaroslav.takac
 image: assets/img/posts/nemocnice_web2.jpg
 tags: 'Kroměříž radnice informace zdravotnictví koncepce nemocnice'
+---
 
 Setkání s hejtmanem Čunkem v hotelu U Zlatého kohouta v Kroměříži se účastnila necelá stovka lidí z Kroměříže a okolních obcí. Je těžko říci, jestli toto vrchního představitele kraje zaskočilo či nikoli, ale každopádně nabídky kroměřížské radnice na poskytnutí větších a vhodnějších prostor zkrátka nevyužil. Spekulovat o tom, zda to byl záměr, asi nemá smysl.
 
