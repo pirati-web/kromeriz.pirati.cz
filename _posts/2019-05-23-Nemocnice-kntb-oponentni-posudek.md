@@ -23,7 +23,7 @@ Podívejme se na doslovné zadání kraje z konce roku 2018:
 1. zpracován nezávisle na tvůrcích investičního záměru,
 2. bude ve stejném rozsahu porovnávat investici do nové nemocnice s rekonstrukcí stávající Krajské nemocnice Tomáše Bati, a. s.,
 3. identifikuje významná rizika investičního záměru, především finanční, a způsob jejich eliminace,
----
+
 tak, aby odborný posudek mohl být řádně projednán na Výboru zdravotním Zastupitelstva Zlínského kraje, který bude předcházet dalším jednáním Zastupitelstva Zlínského kraje, na kterých budou zařazeny body, týkající se větších investičních akcí Krajské nemocnice Tomáše Bati, a. s., “Koncepce rozvoje nemocnic založených Zlínským krajem”, případně jiné body, které souvisí s přípravami projektu “NOVÁ BAŤOVA NEMOCNICE ve Zlíně-Malenovicích”. “ (1)
 ---------------------------------------------------------------
 
@@ -37,9 +37,9 @@ Autoři v posudku také poukazují na to, že projekt stále počítá jen se dv
 Takhle se, pánové, dělá politika!
 
 zdroje:
-(1) Usnesení 0480/Z16/18. Zlínský kraj [online]. 2018. Dostupné z: <a href="https://www.kr-zlinsky.cz/vypisy-usneseni-zastupitelstva-zlinskeho-kraje-2016-2020-cl-3875.html" target="_blank">Odkaz</a>
-(2) Stanovisko UTB k dokumentu, jímž FaME k posuzovala přístup přípravného výboru k hodnocení investiční akce projektu “Nová nemocnice ve Zlíně”. Univerzita Tomáše Bati ve Zlíně [online]. 2019. Dostupné z: <a href="http://zpravy.utb.cz/2019/03/27/stanovisko-utb-k-posudku-ktery-vypracovala-fame-k-posouzeni-pristupu-pripravneho-vyboru-k-hodnoceni-investicni-akce-projektu-nova-nemocnice-ve-zline/" target="_blank">Odkaz</a>
-(3) PROCHÁZKA, Jiří. Získaný nebo promarněný čas? Svobodní. Zlínský kraj [online]. 2019. Dostupné z: <a href="http://zlinskykraj.svobodni.cz/2019/04/ziskany-nebo-promarneny-cas/?fbclid=IwAR2_Os2gnNnJMEF7tlQuqL7uGuA5GBeQJtgbc5u2qOGQozpGd3Gp9NZmKgM" target="_blank">Odkaz</a>
-(4) Kraj připravuje strategickou koncepci pro zdravotnictví na období 2020-2030. Zlínský kraj [online]. 2019. Dostupné z: <a href="https://www.kr-zlinsky.cz/kraj-pripravuje-strategickou-koncepci-pro-zdravotnictvi-na-obdobi-2020-2030-aktuality-14687.html" target="_blank">Odkaz</a>
-(5) Investiční záměr na výstavbu nové nemocnice je hotový, hejtman Čunek: Posudek univerzity potvrdil správnost našeho rozhodnutí. Zlínský kraj [online]. 2019. Dostupné z: <a href="https://www.kr-zlinsky.cz/investicni-zamer-na-vystavbu-nove-nemocnice-je-hotovy-hejtman-cunek-posudek-univerzity-potvrdil-spravnost-naseho-rozhodnuti-aktuality-15468.html" target="_blank">Odkaz</a>
-(6) Nová nemocnice ve Zlíně - beseda v Kroměříži. 4. 4. 2019. Svobodní - Zlínský kraj. Fotogalerie z besedy [online]. 2019. Dostupné z: <a href="https://photos.google.com/share/AF1QipPIqiZUTDMJvXfmDZwVwenBW5t6Mtq1rN_OA3pZXezDRK9fvGmFz69RWP3JYE0E5A?key=MXQ4bkxTLWw3ZXVZR2Z4SGlhd29VQ3BzY2FRbUN3" target="_blank">Odkaz</a>
+(1) Usnesení 0480/Z16/18. Zlínský kraj [online]. 2018. Dostupné z: <a href="https://www.kr-zlinsky.cz/vypisy-usneseni-zastupitelstva-zlinskeho-kraje-2016-2020-cl-3875.html" target="_blank">Odkaz</a></br>
+(2) Stanovisko UTB k dokumentu, jímž FaME k posuzovala přístup přípravného výboru k hodnocení investiční akce projektu “Nová nemocnice ve Zlíně”. Univerzita Tomáše Bati ve Zlíně [online]. 2019. Dostupné z: <a href="http://zpravy.utb.cz/2019/03/27/stanovisko-utb-k-posudku-ktery-vypracovala-fame-k-posouzeni-pristupu-pripravneho-vyboru-k-hodnoceni-investicni-akce-projektu-nova-nemocnice-ve-zline/" target="_blank">Odkaz</a></br>
+(3) PROCHÁZKA, Jiří. Získaný nebo promarněný čas? Svobodní. Zlínský kraj [online]. 2019. Dostupné z: <a href="http://zlinskykraj.svobodni.cz/2019/04/ziskany-nebo-promarneny-cas/?fbclid=IwAR2_Os2gnNnJMEF7tlQuqL7uGuA5GBeQJtgbc5u2qOGQozpGd3Gp9NZmKgM" target="_blank">Odkaz</a></br>
+(4) Kraj připravuje strategickou koncepci pro zdravotnictví na období 2020-2030. Zlínský kraj [online]. 2019. Dostupné z: <a href="https://www.kr-zlinsky.cz/kraj-pripravuje-strategickou-koncepci-pro-zdravotnictvi-na-obdobi-2020-2030-aktuality-14687.html" target="_blank">Odkaz</a></br>
+(5) Investiční záměr na výstavbu nové nemocnice je hotový, hejtman Čunek: Posudek univerzity potvrdil správnost našeho rozhodnutí. Zlínský kraj [online]. 2019. Dostupné z: <a href="https://www.kr-zlinsky.cz/investicni-zamer-na-vystavbu-nove-nemocnice-je-hotovy-hejtman-cunek-posudek-univerzity-potvrdil-spravnost-naseho-rozhodnuti-aktuality-15468.html" target="_blank">Odkaz</a></br>
+(6) Nová nemocnice ve Zlíně - beseda v Kroměříži. 4. 4. 2019. Svobodní - Zlínský kraj. Fotogalerie z besedy [online]. 2019. Dostupné z: <a href="https://photos.google.com/share/AF1QipPIqiZUTDMJvXfmDZwVwenBW5t6Mtq1rN_OA3pZXezDRK9fvGmFz69RWP3JYE0E5A?key=MXQ4bkxTLWw3ZXVZR2Z4SGlhd29VQ3BzY2FRbUN3" target="_blank">Odkaz</a></br>
