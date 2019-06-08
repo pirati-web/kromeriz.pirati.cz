@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Půlroční vysvědčení, aneb jak Piráti na radnici pracují'
-date: 2019-06-08
+date: 2019-06-08T20:40:00.032Z
 author: Jaromír Horký
 authorId: jaromir.horky
 image: assets/img/posts/vysvedcenipirati.jpg
@@ -27,6 +27,6 @@ Mimo výše jmenované splněné body z předvolebního programu se podařilo ta
 
 „Jsme rádi, že jsme spolu s koaličními partnery dotáhli za tak krátkou dobu několik vytyčených cílů do konce. V koalici panuje velká shoda, proto se nám daří prosazovat naše programové priority. Věřím, že na konci volebního období za námi zůstane spousta odvedené práce,“ ukončil místostarosta Vratislav Krejčíř.
 
-Odvedená práce jde vidět na každém kroku, avšak Piráti pracují i tam, kde to vidět není na první pohled není. Členové MS Kroměříž jsou členy různých komisí, kde odvádí velmi cennou a poctivou práci, kterou následně zastupitelé přetvoří v hmatatelný výsledek.
+Odvedená práce jde vidět na každém kroku, avšak Piráti pracují i tam, kde to první pohled vidět není. Členové MS Kroměříž jsou členy různých komisí, kde odvádí velmi cennou a poctivou práci, kterou následně zastupitelé přetvoří v hmatatelný výsledek.
  
 > ## *Nekončíme, pracujeme dál. Jsme Piráti, držíme kurz.*
