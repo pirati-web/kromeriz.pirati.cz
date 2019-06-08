@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Půlroční vysvědčení, aneb jak Piráti na radnici pracují'
-date: 2019-06-08T20:40:00.032Z
+date: 2019-06-08T21:30:00.032Z
 author: Jaromír Horký
 authorId: jaromir.horky
 image: assets/img/posts/vysvedcenipirati.jpg
