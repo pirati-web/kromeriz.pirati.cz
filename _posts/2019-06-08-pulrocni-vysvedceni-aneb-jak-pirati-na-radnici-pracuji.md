@@ -8,6 +8,7 @@ authorId: jaromir.horky
 image: assets/img/posts/vysvedcenipirati.jpg
 tags: 'Kroměříž radnice informace transparence pirati-na-radnici'
 ---
+
 Za Piráty jsou vidět výsledky práce a byla by škoda se o ně s vámi nepodělit. Přinášíme vám krátký souhrn toho, co za pouhého půl roku pirátští zástupci na radnici zvládli.
 * Již od začátku letošního roku se občané mohou nově setkat s vedením města mimo osobně sjednané schůzky také každou první středu v měsíci, a to bez objednání. Lidé se mohou vedení města zeptat na různé otázky nebo jim sdělit své problémy či nápady k řešení.
 * V dubnu byla slavnostně otevřena legální graffiti stěna pro moderní umění, která bude díky příspěvku pirátského místostarosty Vratislava Krejčíře brzy rozšířena o další panely. Všechny práce na této stěně potom proběhnou na dobrovolnické bázi.   	
@@ -29,4 +30,4 @@ Mimo výše jmenované splněné body z předvolebního programu se podařilo ta
 
 Odvedená práce jde vidět na každém kroku, avšak Piráti pracují i tam, kde to první pohled vidět není. Členové MS Kroměříž jsou členy různých komisí, kde odvádí velmi cennou a poctivou práci, kterou následně zastupitelé přetvoří v hmatatelný výsledek.
  
-> ## *Nekončíme, pracujeme dál. Jsme Piráti, držíme kurz.*
+*Nekončíme, pracujeme dál. Jsme Piráti, držíme kurz.*
