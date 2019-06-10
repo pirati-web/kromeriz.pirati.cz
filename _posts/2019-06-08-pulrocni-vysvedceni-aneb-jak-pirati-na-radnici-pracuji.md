@@ -17,7 +17,7 @@ Za Piráty jsou vidět výsledky práce a byla by škoda se o ně s vámi nepod�
 * Podařilo se nově zřídit Komisi pro komunikaci s osadními výbory, která přispívá k lepší komunikaci mezi okrajovými částmi, které spadají do působnosti města.
 * Piráti se mohou pyšnit splněním dalším z předvolebních slibů, zřízením městských jeslí. Od 1. ledna 2020 vznikne nová dětská skupina pro 12 dětí. Město tak chce přispět a podpořit mladé maminky, které se chtějí dříve vrátit do zaměstnání.
 
-Mimo výše jmenované splněné body z předvolebního programu se podařilo také mnoho věcí, které jsou součástí koaliční smlouvy. Jedná se proto o zásluhu celé koalice nikoliv jen pirátských zastupitelů.
+Mimo výše jmenované splněné body z předvolebního programu se podařilo také mnoho věcí, které jsou součástí koaliční smlouvy. <b>Jedná se proto o zásluhu celé koalice nikoliv jen pirátských zastupitelů.</b>
 
 * Během letních prázdnin se začne pracovat na novém portálu města Kroměříže, který by měl mít v sobě zakomponován portál občana, ankety a participativní rozpočet, díky čemuž se lépe podaří Pirátům vtáhnout občany do rozhodování.
 * Piráti dále pracují na novém systému parkování s využitím chytrých technologií pro snadnější parkování. Kromě toho budou rozšířeny parkovací zóny a změněny ceníky pro rezidentní a firemní auta. V brzké době také započne výstavba parkovacího domu, kterému bylo vydáno stavební povolení.
