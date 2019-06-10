@@ -15,7 +15,7 @@ Za Piráty jsou vidět výsledky práce a byla by škoda se o ně s vámi nepod�
 * Začátkem června proběhla ve školkách zřizovaných městem instalace čidel pro měření znečištění ovzduší. Z počátku jde o 8 čidel pro měření polétavého prachu, CO2 a VOC, které jsou zapojena do senzorického systému vyhodnocující znečištění ve městě. Systém je nyní v testovacím režimu, však již brzy by měla být k dispozici první data.
 * Byla aktualizována směrnice pro příspěvkové organizace, od které se očekává šetrnější nakládání s příspěvky a transparentnější hospodaření.
 * Podařilo se nově zřídit Komisi pro komunikaci s osadními výbory, která přispívá k lepší komunikaci mezi okrajovými částmi, které spadají do působnosti města.
-* Piráti se mohou pyšnit splněním dalším z předvolebních slibů, zřízením městských jeslí. Od 1. ledna 2020 vznikne nová dětská skupina pro 12 dětí. Město tak chce přispět a podpořit mladé maminky, které se chtějí dříve vrátit do zaměstnání.
+* Piráti se mohou pyšnit splněním dalším z předvolebních slibů, zřízením městských jeslí. Od 1. ledna 2020 vznikne nová dětská skupina pro 12 dětí. Město tak chce přispět a podpořit mladé maminky, které se chtějí dříve vrátit do zaměstnání. Na vzniku této dětské skupiny se nejvíce podílela místostarostka D. Hebnarová.
 
 Mimo výše jmenované splněné body z předvolebního programu se podařilo také mnoho věcí, které jsou součástí koaliční smlouvy. <b>Jedná se proto o zásluhu celé koalice nikoliv jen pirátských zastupitelů.</b>
 
