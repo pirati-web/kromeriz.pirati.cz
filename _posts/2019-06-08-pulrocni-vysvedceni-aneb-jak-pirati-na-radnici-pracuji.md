@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Půlroční vysvědčení, aneb jak Piráti na radnici pracují'
+title: 'Půlroční vysvědčení aneb jak Piráti na radnici pracují'
 date: 2019-06-08T21:30:00.032Z
 author: Jaromír Horký
 authorId: jaromir.horky
