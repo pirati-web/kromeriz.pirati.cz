@@ -8,7 +8,6 @@ authorId: jaromir.horky
 image: assets/img/posts/workouthriste.jpg
 tags: 'Kroměříž radnice informace workout'
 ---
-
 Piráti splnili další část programového prohlášení koalice, v blízkosti centra na Hanáckém náměstí vznikne totiž workoutové hřiště, které doplní stávající hřiště na pétanque.
 
 Nápad vybudovat workoutové hřiště vyplynul z přání místních obyvatel, ale zároveň se toto téma řešilo taktéž na Studenstkém fóru města Kroměříž. 
