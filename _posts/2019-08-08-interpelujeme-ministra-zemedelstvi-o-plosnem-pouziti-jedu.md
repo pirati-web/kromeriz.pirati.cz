@@ -1,0 +1,18 @@
+---
+layout: blog
+category: CLANKY
+title: 'Čtvrteční hlášení od kormidel - Vratislav Krejčíř'
+date: 2019-08-08
+author: Jaromír Horký
+authorId: jaromir.horky
+image: /assets/img/posts/jed.png   
+tags: 'interpelace'
+---
+
+O plošném použití jedu Sutoxu II, jsme se dozvěděli hned tento týden v pondělí. Je to neskutečný přešlap a lhostejnost úředníků ministerstva zemědělství. Přípravek Stutox II likviduje nejen hraboše, ale může být nebezpečný i ostatním zvířatům, včetně ohrožených druhů sov a čápů, jejichž potravou jsou hlodavci..
+
+Prostřednictvím našeho poslance Františka Elfmarka, se budeme snažit interpelovat ministra  zemědělství pana Tomana, aby bylo nařízení zastaveno, zrušeno, nebo alespoň pozměněno. Docílit chceme toho, aby alespoň aplikace nebezpečného jedu probíhala do nor a ne plošně a dále zrušení povolení aplikace v remízcích – povolení použít tento jed i v remízcích je podle nás otevřená cesta aplikovat tento jed de facto kdekoli.
+
+Celé znění interpelace naleznete [zde](https://drive.google.com/file/d/1QHQwiA16jRV6Zw6R60Tl4WUEjnmLw0OP/view?fbclid=IwAR3ZCJ4HAlNsRfBlbfqtr048PlbT5Hc54pMZliePNPV4PRo6s6sWo2zwwa8){:target="_blank"}.
+
+---
