@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Vratislav Krejčíř'
+title: 'Interpelujeme ministra zemědělství o plošném použití jedů'
 date: 2019-08-08
 author: Jaromír Horký
 authorId: jaromir.horky
