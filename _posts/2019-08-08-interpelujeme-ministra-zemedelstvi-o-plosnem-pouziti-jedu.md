@@ -9,7 +9,7 @@ image: /assets/img/posts/jed.png
 tags: 'interpelace'
 ---
 
-O plošném použití jedu Sutoxu II, jsme se dozvěděli hned tento týden v pondělí. Je to neskutečný přešlap a lhostejnost úředníků ministerstva zemědělství. Přípravek Stutox II likviduje nejen hraboše, ale může být nebezpečný i ostatním zvířatům, včetně ohrožených druhů sov a čápů, jejichž potravou jsou hlodavci..
+O plošném použití jedu Stutoxu II, jsme se dozvěděli hned tento týden v pondělí. Je to neskutečný přešlap a lhostejnost úředníků ministerstva zemědělství. Přípravek Stutox II likviduje nejen hraboše, ale může být nebezpečný i ostatním zvířatům, včetně ohrožených druhů sov a čápů, jejichž potravou jsou hlodavci..
 
 Prostřednictvím našeho poslance Františka Elfmarka, se budeme snažit interpelovat ministra  zemědělství pana Tomana, aby bylo nařízení zastaveno, zrušeno, nebo alespoň pozměněno. Docílit chceme toho, aby alespoň aplikace nebezpečného jedu probíhala do nor a ne plošně a dále zrušení povolení aplikace v remízcích – povolení použít tento jed i v remízcích je podle nás otevřená cesta aplikovat tento jed de facto kdekoli.
 
