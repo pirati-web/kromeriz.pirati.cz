@@ -13,6 +13,8 @@ O plošném použití jedu Sutoxu II, jsme se dozvěděli hned tento týden v po
 
 Prostřednictvím našeho poslance Františka Elfmarka, se budeme snažit interpelovat ministra  zemědělství pana Tomana, aby bylo nařízení zastaveno, zrušeno, nebo alespoň pozměněno. Docílit chceme toho, aby alespoň aplikace nebezpečného jedu probíhala do nor a ne plošně a dále zrušení povolení aplikace v remízcích – povolení použít tento jed i v remízcích je podle nás otevřená cesta aplikovat tento jed de facto kdekoli.
 
+Zároveň bychom chtěli upozornit majitele psů, koček a dalších domácích mazlíčků, aby dávali pozor, zda v jejich okolí probíhá také toto plošné využívání jedu. 
+
 Celé znění interpelace naleznete [zde](https://drive.google.com/file/d/1QHQwiA16jRV6Zw6R60Tl4WUEjnmLw0OP/view?fbclid=IwAR3ZCJ4HAlNsRfBlbfqtr048PlbT5Hc54pMZliePNPV4PRo6s6sWo2zwwa8){:target="_blank"}.
 
 ---
