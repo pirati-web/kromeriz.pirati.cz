@@ -13,3 +13,4 @@ Město Kroměříž aktuálně připravuje Plán rozvoje a sportu do roku 2025, 
 
 Dotazník můžete vyplňovat až do 20. září [zde](https://docs.google.com/forms/d/e/1FAIpQLSdashBP34pmuDBo-nUThb7JFjpeVGG7TkOmDupW51_5WcJMEg/viewform){:target="_blank"}. Těšíme se na vaše zajímavé podněty a děkujeme za váš čas.
 
+---
