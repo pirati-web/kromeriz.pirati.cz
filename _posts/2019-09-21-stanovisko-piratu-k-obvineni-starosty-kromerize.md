@@ -17,7 +17,7 @@ Pokud by situace dospěla až k obžalobě budeme požadovat, aby daná osoba ne
 
 Celý případ „Akcionářské dohody“ byl všem znám již před volbami, kdy aktuální starosta vystoupil z hnutí ANO. Tato kauza byla součástí předvolebních politických bojů a také byla široce mediálně probírána. Akcionářská dohoda pomohla k tomu, aby voda, jako jeden z nejdůležitějších zdrojů, zůstala v majetku obcí a měst. Tato dohoda z minulého volebního období zabránila privatizaci VaKu, navzdory tlaku hnutí ANO, které proti této dohodě od počátku bojovalo a někteří jeho členové na tom měli osobní zájem. Piráti nemůžou dovolit, aby se tyto strategické a důležité zdroje dostaly do soukromých rukou spekulantů a celou „Akcionářskou dohodu“ podporují.
 
-I na základě rozhodnutí Úřadu pro ochranu hospodářské soutěže víme, že radnice při uzavírání smluv nepochybila. Už kvůli znalosti tohoto případu, postupného nátlaku a kroků, je potřeba aby Piráti Kroměříž o to víc v tomto případě ctili presumpci nevinny.
+I na základě rozhodnutí Úřadu pro ochranu hospodářské soutěže víme, že radnice při uzavírání smluv nepochybila. Už kvůli znalosti tohoto případu, postupného nátlaku a kroků, je potřeba aby Piráti Kroměříž o to víc v tomto případě ctili presumpci neviny.
 
 *„Věděli jsme, do čeho jdeme a jaký tlak po volbách hnutí ANO na jejich bývalého člena kvůli této dohodě vyvolá. Šli jsme do voleb věci měnit k lepšímu a mnoho z našeho programu bylo již splněno a jdeme dál. To se aktuální situací nemění, jsme však připraveni v případě, že dojde ke změně okolností v souladu s naší povolební strategií svolat koaliční jednání a danou situaci řešit,“ komentoval situaci pirátský místostarosta Vratislav Krejčíř.*
 
