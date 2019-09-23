@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Stanovisko Pirátů Kroměříž k trestnímu obvinění starosty města ve věci Akcionářské dohody společnosti VaK'
+title: 'Stanovisko Pirátů Kroměříž k obvinění starosty města ve věci Akcionářské dohody společnosti VaK'
 date: 2019-09-21
 author: Jaromír Horký
 authorId: jaromir.horky
