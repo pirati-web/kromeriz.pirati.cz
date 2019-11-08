@@ -29,7 +29,6 @@ Během října proběhly také dvě zasedání Zastupitelstva, mezi hlavními bo
 
 ![Darování daru](https://kromeriz.pirati.cz/assets/img/posts/hasici.png)
 
-
 28. října jsme si společně po celé republice připomněli výročí založení samostatného československého státu. Přejeme naší republice ať je ta druhá stovka prostá totalitních předělů a válek, naopak bohatá na svobodu, lidskost, odvahu a prosperitu. 
 
 ![Pokládání věnce](https://kromeriz.pirati.cz/assets/img/posts/kladeni__25.10.2019_4.jpg)
