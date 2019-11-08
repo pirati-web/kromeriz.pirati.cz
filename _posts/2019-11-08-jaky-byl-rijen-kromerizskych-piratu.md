@@ -19,7 +19,7 @@ Za další úspěch s našimi koaličními partnery rozhodně považujeme práci
 
 Kancelář městského úřadu dostane novou spisovnu. „Město zakoupí budovu bývalé kotelny, která vyhovuje našim požadavkům. Byl jsem si tuto budovu osobně prohlédnout a jsem moc rád, že po dlouhém vyjednávání a chystání podařilo dohodu vyjednat,“ doplnil Vratislav Krejčíř. Město podle zákona musí ukládat dokumenty, avšak prostory aktuální spisovny ve sklepě bytového domu nejsou ideální, i proto se město rozhodlo investovat do budovy v lepším stavu.
 
-Akcí roku, kterou jsme pro vás připravili s kroměřížškými Piráty se stal Klimaticon, čili odborná konference z oblasti životního prostředí. Akce nabídla široké pásmo přednášek zaměřených na dopad klimatických změn z pohledu jednotlivce i celé společnosti. Na akci přednášela například bývalá ředitelka České inspekce životního prostředí Evay Tylová, kompostář Martin Šmída, poslanec František Elfmark nebo také pirátský expert na oblast životního prostředí Jan Nezhyba. Na záznam z Klimaticonu se můžete podívat[zde](https://www.facebook.com/events/656174491557832/?active_tab=discussion){:target="_blank"}. a na fotky i z přlehlé recyklační dílny narazíte [tady](https://www.facebook.com/piratizlk/posts/2447276238819062){:target="_blank"}.
+Akcí roku, kterou jsme pro vás připravili s kroměřížškými Piráty se stal Klimaticon, čili odborná konference z oblasti životního prostředí. Akce nabídla široké pásmo přednášek zaměřených na dopad klimatických změn z pohledu jednotlivce i celé společnosti. Na akci přednášela například bývalá ředitelka České inspekce životního prostředí Evay Tylová, kompostář Martin Šmída, poslanec František Elfmark nebo také pirátský expert na oblast životního prostředí Jan Nezhyba. Na záznam z Klimaticonu se můžete podívat [zde](https://www.facebook.com/events/656174491557832/?active_tab=discussion){:target="_blank"}. a na fotky i z přlehlé recyklační dílny narazíte [tady](https://www.facebook.com/piratizlk/posts/2447276238819062){:target="_blank"}.
 
 Jednou z našich programových priorit bylo veřejné projednávání projektů s občany města, ti se mohli 22. října seznámit a připomínkovat plán městské mobility. Tento plán se zabývá veškerými formami a způsoby dopravy ve městě od pěší dopravy přes MHD, automobilovou dopravu a parkování.
 
@@ -29,7 +29,7 @@ Během října proběhly také dvě zasedání Zastupitelstva, mezi hlavními bo
 
 ![Darování daru](https://kromeriz.pirati.cz/assets/img/posts/hasici.png)
 
-28. října jsme si společně po celé republice připomněli výročí založení samostatného československého státu. Přejeme naší republice ať je ta druhá stovka prostá totalitních předělů a válek, naopak bohatá na svobodu, lidskost, odvahu a prosperitu. 
+28.října jsme si společně po celé republice připomněli výročí založení samostatného československého státu. Přejeme naší republice ať je ta druhá stovka prostá totalitních předělů a válek, naopak bohatá na svobodu, lidskost, odvahu a prosperitu. 
 
 ![Pokládání věnce](https://kromeriz.pirati.cz/assets/img/posts/kladeni__25.10.2019_4.jpg)
 
