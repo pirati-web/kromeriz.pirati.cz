@@ -25,7 +25,7 @@ Jednou z našich programových priorit bylo veřejné projednávání projektů 
 
 Během října proběhly také dvě zasedání Zastupitelstva, mezi hlavními body programu byly například dotace na provoz noclehárny, pověření ke kontrole nákupu tabletů pro Sociální služby města Kroměříže nebo podání ústavní žaloby, o ní si můžete přečíst více na profilu našeho [místostarosty](https://www.facebook.com/vratislav.krejcir.kromeriz/photos/a.360900351169949/487716245155025/?type=3&theater){:target="_blank"}.
 
-Říjnové zasedání zastupitelstva se nemohl zúčastnit náš druhý zastupitel Petr Stoklasa, který svou odměnu daroval dobrovolným hasičům na nákup potřebného vybavení.
+Říjnového zasedání zastupitelstva se nemohl zúčastnit náš druhý zastupitel Petr Stoklasa, který svou odměnu daroval dobrovolným hasičům na nákup potřebného vybavení.
 
 ![Darování daru](https://kromeriz.pirati.cz/assets/img/posts/hasici.png)
 
