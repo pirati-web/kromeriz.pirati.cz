@@ -5,7 +5,7 @@ title: 'Kroměříž přestane na většině svého území používat k hubení
 date: 2020-01-06
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/glyfosat.jpeg
+image: /assets/img/posts/glyfosat.jpg
 tags: 'kromeriz vratislav-krejcir glyfosat radnice'
 ---
 Kroměřížští radní a členové komise pro životního prostředí schválili návrh pirátského místostarosty Vratislava Krejčíře omezit používání glyfosátu k hubení plevele na většině území města. Kroměříž se tak připojí k desítkám dalších měst, které chtějí dopřát svým občanům bezpečnější životní prostředí. 
