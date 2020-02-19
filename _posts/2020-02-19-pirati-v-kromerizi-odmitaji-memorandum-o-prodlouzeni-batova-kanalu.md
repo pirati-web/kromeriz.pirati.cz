@@ -5,7 +5,7 @@ title: 'Piráti v Kroměříži odmítají prodloužení Baťova kanálu'
 date: 2020-02-19
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/batuvkanal.jpg
+image: /assets/img/posts/batuvkanal.jpeg
 tags: 'zlinsky-kraj radnice batuv-kanal vratislav-krejcir'
 ---
 
