@@ -10,8 +10,9 @@ tags: 'zlinsky-kraj radnice batuv-kanal vratislav-krejcir zastupitelstvo'
 ---
 Netušil jsem, že kvůli zastupitelstvu někdy urazíme s mým pirátským kolegou Petrem Stoklasou více než 550 km. Do termínu každoroční dovolené na horách padl i termín prvního zastupitelstva v tomto roce.  Naštěstí jezdíme do českých hor, tak to bylo na otočku.
 
-Na zastupitelstvo jsme jeli s jasným úkolem, předem jsme oznámili, že nepodpoříme Memorandum o prodloužení Baťova kanálu do Olomouce. Někteří si myslí, že jsme takovou zprávu vydali až po jejich intervenci z tohoto týdne, ale my měli nachystanou tiskovou zprávu již 6. prosince 2019 ![Screenshot](https://kromeriz.pirati.cz/assets/img/posts/screenkanal.png)
-, protože se původně tento bod měl projednávat na posledním zastupitelstvu roku 2019. O memorandu jsme věděli ale ještě mnohem dříve od našich pirátských kolegů z [Přerova](https://olomoucky.pirati.cz/tiskove-zpravy/8-zasedani-zastupitelstva-mesta-prerova-uspech-ale-i-mnoha-zklamani.html){:target="_blank"}.
+Na zastupitelstvo jsme jeli s jasným úkolem, předem jsme oznámili, že nepodpoříme Memorandum o prodloužení Baťova kanálu do Olomouce. Někteří si myslí, že jsme takovou zprávu vydali až po jejich intervenci z tohoto týdne, ale my měli nachystanou tiskovou zprávu již 6. prosince 2019, protože se původně tento bod měl projednávat na posledním zastupitelstvu roku 2019. O memorandu jsme věděli ale ještě mnohem dříve od našich pirátských kolegů z [Přerova](https://olomoucky.pirati.cz/tiskove-zpravy/8-zasedani-zastupitelstva-mesta-prerova-uspech-ale-i-mnoha-zklamani.html){:target="_blank"}.
+
+![Screenshot](https://kromeriz.pirati.cz/assets/img/posts/screenkanal.png)
 
 K bodu memoranda jsem vystoupil na zastupitelstvu do rozpravy, jako několik dalších zastupitelů, kde jsem shrnul mé obavy o prameniště vody, které přiléhají ke korytu Moravy. Také jsem mluvil o problémech s udržováním vody v krajině, kdy toto prodloužení a i částečná výstavba kanálu D-O-L může vést k úplnému opaku. Nevěřím ani Krajskému úřadu a jeho Odboru životního prostředí, že bude jednat v zájmu obyvatel, tak jako se to stalo v několika dalších posudcích.
 
