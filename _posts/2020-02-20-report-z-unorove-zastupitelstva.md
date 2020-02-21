@@ -28,4 +28,5 @@ Prodej i přes některé návrhy opozice byl schválen, všichni kromě zastupit
 Na konci zastupitelstva jsem předal předsedajícímu (starostovi) interpelaci na zastupitele Motyčku, tuto interpelaci zveřejníme v pondělí.
 
 Hezký víkend všem. Piráti z Kroměříže
+
 ---
