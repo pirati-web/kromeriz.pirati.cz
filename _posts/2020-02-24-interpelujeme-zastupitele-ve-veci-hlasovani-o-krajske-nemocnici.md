@@ -5,7 +5,7 @@ title: 'Posíláme otevřený dopis zastupiteli Motyčku ve věci hlasování o 
 date: 2020-02-24
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
-image: /assets/img/posts/nemocnice.jpg
+image: /assets/img/posts/nemocnice.png
 tags: 'zlinsky-kraj radnice nemocnice vratislav-krejcir zastupitelstvo'
 ---
 **Otevřený dopis pro PhDr. Pavel Motyčka Ph.D.** 
