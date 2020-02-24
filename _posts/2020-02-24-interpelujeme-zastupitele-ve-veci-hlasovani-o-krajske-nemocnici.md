@@ -1,14 +1,14 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Posíláme otevřený dopis zastupiteli Motyčku ve věci hlasování o krajské nemocnici'
+title: 'Posíláme otevřený dopis zastupiteli Motyčkovi ve věci hlasování o krajské nemocnici'
 date: 2020-02-24
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
 image: /assets/img/posts/nemocnice.png
 tags: 'zlinsky-kraj radnice nemocnice vratislav-krejcir zastupitelstvo'
 ---
-**Otevřený dopis pro PhDr. Pavel Motyčka Ph.D.** 
+**Otevřený dopis pro PhDr. Pavla Motyčku Ph.D.** 
 
 Vážený pane Motyčko, zcela jistě si uvědomujete, že za pozici krajského zastupitele vděčíte svým voličům. Převážná část Vašich voličů je z Kroměříže, a ti samí voliči Vás také zvolili do zastupitelstva města Kroměříž, v komunálních volbách 2018. Proto dovolte, abychom Vám touto otevřenou formou dopisu položili několik otázek, protože i občany z Kroměříže budou jistě Vaše odpovědi zajímat.
 
