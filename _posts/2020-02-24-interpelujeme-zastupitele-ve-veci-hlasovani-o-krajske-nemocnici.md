@@ -12,7 +12,7 @@ tags: 'zlinsky-kraj radnice nemocnice vratislav-krejcir zastupitelstvo'
 
 Vážený pane Motyčko, zcela jistě si uvědomujete, že za pozici krajského zastupitele vděčíte svým voličům. Převážná část Vašich voličů je z Kroměříže, a ti samí voliči Vás také zvolili do zastupitelstva města Kroměříž, v komunálních volbách 2018. Proto dovolte, abychom Vám touto otevřenou formou dopisu položili několik otázek, protože i občany z Kroměříže budou jistě Vaše odpovědi zajímat.
 
-##
+
  *1. Rozhodoval jste se při schválení výstavby nové nemocnice, i jako zastupitel města Kroměříž, nebo pouze jako krajský zastupitel a člen krajské koalice vedené hejtmanem?* 
 
  *2. Měl jste v době hlasování relevantní informace o způsobu financování celé této investice, které Vás přiměli k hlasu PRO výstavbu nové nemocnice, a můžete tyto informace poskytnout veřejně?* 
