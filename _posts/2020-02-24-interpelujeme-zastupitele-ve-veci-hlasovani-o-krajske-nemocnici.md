@@ -15,7 +15,7 @@ Vážený pane Motyčko, zcela jistě si uvědomujete, že za pozici krajského 
 
  *1. Rozhodoval jste se při schválení výstavby nové nemocnice, i jako zastupitel města Kroměříž, nebo pouze jako krajský zastupitel a člen krajské koalice vedené hejtmanem?* 
 
- *2. Měl jste v době hlasování relevantní informace o způsobu financování celé této investice, které Vás přiměli k hlasu PRO výstavbu nové nemocnice, a můžete tyto informace poskytnout veřejně?* 
+ *2. Měl jste v době hlasování relevantní informace o způsobu financování celé této investice, které Vás přiměly k hlasu PRO výstavbu nové nemocnice, a můžete tyto informace poskytnout veřejně?* 
 
  *3. Vnímáte Vy osobně takto zařazený bod jednání krajského zastupitelstva v souladu se zákonem? A vnímáte tento krok vůči občanům i opozici jako běžnou politickou kulturu?* 
 
