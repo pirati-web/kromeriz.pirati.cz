@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: 'Lidovci zahájili očerňovací kampaň svých oponentů, kteří poukazují na jejich přešlapy'
 date: 2020-03-03
-author: Vratislav Krejčíř
-authorId: vratislav.krejcir
+author: Jaromír Horký
+authorId: jaromir.horky
 image: /assets/img/posts/kraken.png
 tags: 'zlinsky-kraj radnice nemocnice vratislav-krejcir zastupitelstvo hana-ancicnova'
 ---
