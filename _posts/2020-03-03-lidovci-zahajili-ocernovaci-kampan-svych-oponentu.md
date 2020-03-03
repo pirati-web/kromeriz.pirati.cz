@@ -6,7 +6,7 @@ date: 2020-03-03
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/kraken.png
-tags: 'zlinsky-kraj radnice nemocnice vratislav-krejcir zastupitelstvo hana-ancicnova'
+tags: 'zlinsky-kraj radnice nemocnice vratislav-krejcir zastupitelstvo hana-ancincova'
 ---
 Piráti v podzimních krajských volbách mají ambice vyhrát a chtějí nahradit současného hejtmana Jiřího Čunka na krajském úřadě. Lidovci cítí sílu Pirátů a již v březnu zahájili očerňovací kampaň proti Pirátům v Kroměříži.
 
