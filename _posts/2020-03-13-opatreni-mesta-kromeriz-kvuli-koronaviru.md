@@ -19,7 +19,7 @@ Po krátké informaci našeho pirátského místostarosty Vratislava Krejčíře
 *	Město Kroměříž požádalo rodiče, aby si zajistili hlídání a nevodili děti do školek, ostatním dětem budou pracovníci mateřských škol od pondělka měřit teplotu. Pokud ji bude mít zvýšenou, bude odesláno domů.
 *	Základní, střední, vyšší odborné i umělecké školy zůstavají uzavřené až do odvolání.
 *	Je zakázán vstup na sportoviště, do posiloven, na koupaliště, do wellness zařízení a saun, hudebních a společenských klubů, knihoven či galerií.
-*	Mezi 06:00-20:00 je zakázán vstup do restaurací, barů a hospod.
+*	Mezi 20:00-06:00 je zakázán vstup do restaurací, barů a hospod.
 *	Jsou zakázány akce s účastí více než třiceti lidí vyjma pohřbů a zasedání orgánů veřejné moci či soudů.
 *	Jsou uzavřena všechna městská sportoviště, Knihovna Kroměřížska, Dům kultury, kino Nadsklepí i turistické informační centrum. 
 *	Jsou zakázány návštěvy nemocnic a také všech objektů Sociálních služeb města Kroměříže.
