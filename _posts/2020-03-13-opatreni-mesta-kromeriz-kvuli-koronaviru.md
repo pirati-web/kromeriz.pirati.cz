@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: 'Opatření města Kroměříž proti šíření koronaviru'
 date: 2020-03-13
-author: Jaromír Horký
-authorId: jaromir.horky
+author: Mediální odbor
+authorId: medialni.odbor
 image: /assets/img/posts/koronavirus.png
 tags: 'radnice kromeriz koronavirus vratislav-krejcir'
 ---
