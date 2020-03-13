@@ -14,8 +14,7 @@ Po krátké informaci našeho pirátského místostarosty Vratislava Krejčíře
 Členové krizového štábu se shodli, že všechna opatření přijatá státem mají smysl a budeme tak minimalizovat rizika nákazy koronavirem. „Bude to bolet, ale bez zpřísnění opatření včetně nouzového stavu by situace byla brzo mnohem horší. Prosím, pomáhejme si, buďme solidární a vše zdárně zvládneme. Žádný strach! Respektujte prosím opatření v zájmu svém i ostatních lidí,“ řekl pirátský místostarosta Kroměříže Vratislav Krejčíř. 
 
 **Opatření, které jsou aktuální pro město Kroměříž**-
-* Kvůli ochraně řidičů MHD byla zavedena MHD zdarma.
-*	Cestující MHD musí nastupovat a vystupovat prostředními dveřmi.
+* Kvůli ochraně řidičů MHD byl pozastaven prodej jízdenek u řidiče - cestující MHD musí nastupovat a vystupovat prostředními a zadními dveřmi.
 *	Město Kroměříž požádalo rodiče, aby si zajistili hlídání a nevodili děti do školek, ostatním dětem budou pracovníci mateřských škol od pondělka měřit teplotu. Pokud ji bude mít zvýšenou, bude odesláno domů.
 *	Základní, střední, vyšší odborné i umělecké školy zůstavají uzavřené až do odvolání.
 *	Je zakázán vstup na sportoviště, do posiloven, na koupaliště, do wellness zařízení a saun, hudebních a společenských klubů, knihoven či galerií.
