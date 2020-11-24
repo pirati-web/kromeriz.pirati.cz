@@ -5,7 +5,7 @@ title: 'Piráti si v Kroměříži zvolili nové předsednictvo'
 date: 2020-11-24
 author: Jaromír Horký
 authorId: jaromir.horky
-image: posts/kromerizpohled.jpg
+image: assets/img/posts/kromerizpohled.jpg
 tags: 
 - jakub-zach
 - vratislav-krejcir
