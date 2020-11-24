@@ -5,7 +5,7 @@ title: 'Jak Piráti Petr Stoklasa a Vratislav Krejčíř pomáhají v Kroměří
 date: 2020-11-18
 author: Jaromír Horký
 authorId: jaromir.horky
-image: posts/rozhovorpandemie.jpg
+image: assets/img/posts/rozhovorpandemie.jpg
 tags: 
 - zlinsky-kraj
 - vratislav-krejcir
