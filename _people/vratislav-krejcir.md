@@ -9,14 +9,14 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
-description: předseda MS KM, místostarosta města Kroměříž, hrdý otec a optimista # kratký popis, max 160 znaků
+description: Krajský předseda, místostarosta města Kroměříž, hrdý otec a optimista # kratký popis, max 160 znaků
 mob:			  +420 776 666 144
 mail:
 - vratislav.krejcir@pirati.cz
 profiles:
   facebook: https://www.facebook.com/vratislav.krejcir
   instagram: https://www.instagram.com/veteiks
-ordpms: 1
+ordpms: 2
 ordkandidat: 1
 ordkontakty: 1
 ---
