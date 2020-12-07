@@ -5,6 +5,7 @@ fullname: Ing. arch. Jakub Zach 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - kandidat
+- pms
 img: people/jakub-zach.jpg   # 165 x 220
 description: krajský zastupitel, architekt # kratký popis, max 160 znaků
 mail:
@@ -12,6 +13,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/zachjakub
 ordkandidat: 5
+ordpms: 1
 ---
 
 Ahoj, dobrý den. Je mi 34 let a jsem rodák z Kroměříže. Ačkoliv mě život zavál do různých koutů světa, stále se nejraději vracím do rodné Kroměříže. Živím se jako architekt, ale ve svém volném čase rád čtu, hraji squash, plavu a dále příležitostně fotím nebo bloguji o současné architektuře.
