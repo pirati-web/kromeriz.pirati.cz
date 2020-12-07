@@ -11,7 +11,7 @@ description: statutární náměstkyně hejtmana, finanční kontrolorka # kratk
 mail:
 - hana.ancincova@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/hanka.ancincova
+  facebook: https://www.facebook.com/hana.ancincova.piratka
 ordkandidat: 3
 ---
 
