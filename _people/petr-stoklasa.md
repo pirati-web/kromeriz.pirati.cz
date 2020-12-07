@@ -8,12 +8,12 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/petr-stoklasa.jpg   # 165 x 220
-description: 1. místopředseda MS KM, obchodník # kratký popis, max 160 znaků
+description: 2. místopředseda MS KM, zastupitel města Kroměříže, obchodník # kratký popis, max 160 znaků
 mail:
 - petr.stoklasa@pirati.cz
 profiles:
   facebook: https://www.facebook.com/petr.stoklasa.7
-ordpms: 2
+ordpms: 3
 ordkandidat: 2
 ---
 
