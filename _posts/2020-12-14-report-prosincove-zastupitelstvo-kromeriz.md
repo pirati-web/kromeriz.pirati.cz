@@ -13,7 +13,7 @@ tags:
 - zastupitelstvo
 ---
 
-Pojďme si shrnout, jak proběhlo poslední zasedání Zastupitelstva Kroměříže ve čtvrtej 10. prosince.
+Pojďme si shrnout, jak proběhlo poslední zasedání Zastupitelstva Kroměříže ve čtvrtej 10. prosince. Celé zasedání si pak můžete pustit ze záznamu [zde](https://www.youtube.com/watch?v=Dnh6BnDmFIQ){:target="_blank"}.
 
 ## Tyjátr na úvod
 
