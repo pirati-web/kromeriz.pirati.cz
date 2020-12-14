@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'REPORT: Jak proběhlo prosincové zastupitelstvo'
 date: 2020-12-14
-author: Vratislav Krejčíř
-authorId: jaromir.horky
+author: Petr Stoklasa
+authorId: petr.stoklasa
 image: assets/img/posts/DSC_0027.JPG
 tags: 
 - vratislav-krejcir
