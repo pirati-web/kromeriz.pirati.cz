@@ -13,7 +13,7 @@ tags:
 - zastupitelstvo
 ---
 
-## **Můžeme se rozloučit s opravou bazénu nebo stavbou multifunkční haly v Kroměříži?**
+**Můžeme se rozloučit s opravou bazénu nebo stavbou multifunkční haly v Kroměříži?**
 
 **Šlo jen o pozemek?**
 
