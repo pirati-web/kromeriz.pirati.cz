@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'REPORT: Lednové zastupitelstvo, dejme sbohem hale a bazénu?'
-date: 2021-02-16
+date: 2021-02-15
 author: Petr Stoklasa
 authorId: petr.stoklasa
 image: assets/img/posts/bazen-kromeriz.jpg
