@@ -10,7 +10,7 @@ tags:
 - kromeriz
 - zastupitelstvo
 ---
-**Dnes se koná Zastupitelstvo města Kroměříže, zasedání můžete sledovat z pohodlí domova online na Youtube od 16. hodin pod tímto [odkazem](http://bit.ly/zastupitelstvo-kromeriz).**
+Dnes se koná Zastupitelstvo města Kroměříže, zasedání můžete sledovat z pohodlí domova online na Youtube od 16. hodin pod tímto [odkazem](http://bit.ly/zastupitelstvo-kromeriz).
 
 ## Co budeme řešit? 
 
