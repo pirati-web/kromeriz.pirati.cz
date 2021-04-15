@@ -14,5 +14,4 @@ mail:
 profiles:
   facebook: https://www.facebook.com/lucie.svehlikova/
   
-ordkontakty: 2
 ---
