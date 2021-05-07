@@ -1,79 +1,98 @@
 ---
 layout: pirate-center
-heroHeadline: Programové body Pirátů Zlín
+heroHeadline: Programové body Pirátů Kroměříž
 heroDescription: Komunální volby 2018 
-img: pardupice/krizovatka.jpg
+img: pardupice/kromeriz-namesti.jpg
 addressNote: zatím nemáme místní adresu,
              najdete nás na našich schůzích nebo akcích 
 rbar: ""
 ---
-### Cíl č.1 ZLÍN - Transparentnost
+<p>Vážení občané,</p>
 
+<p>sestavili jsme za Českou pirátskou stranu odpovědnou kandidátku, kterou Vám nyní představujeme spolu s programem pro komunální volby 2018. Hlavní priority jsou jasné - chceme úřad bez bariér, který bude maximálně vstřícný a otevřený všem občanům. Chceme navázat na vše dobré, co se podařilo předchozím zastupitelům. Budeme stát na Vaší straně a s Vaší pomocí uděláme z Kroměříže ještě lepší místo pro život.</p>
 
-* **Šetříme vaše peníze:** Zveřejňování faktur, uzavřených smluv, hospodaření příspěvkových organizací a obchodních společností s účastí města
+<h2 id="1otevenatransparentnradnice">1. Otevřená a transparentní radnice</h2>
 
-* **Kdo je kdo?:** Zveřejníme, která strana delegovala konkrétní zástupce města, do výborů a komisí města, také do dozorčích rad a představenstev obchodních společností s účastí města Zlína
+<p><strong>Uvidíte nám pod ruce</strong> | Jednání výborů a komisí bude přístupné veřejnosti, všechna setkání budou oznámena s dostatečným předstihem a záznamy budou zveřejněny online.</p>
 
-* **Každý má šanci:** Otevřená výběrová řízení – při výběru zaměstnanců i dodavatelů
+<p><strong>Radnice pro občany</strong> | Možnost setkání zastupitelů města s jeho občany je pro nás samozřejmostí. Radnice bude otevřena všem.</p>
 
-* **Dotace a dary:** Komu a kolik město přiděluje dotací a darů včetně žádostí
+<p><strong>Na dvě kliknutí</strong> | Ukážeme Vám, za co ve městě utrácíme. Pomocí transparentního rozklikávacího rozpočtu se můžete seznámit s finančními toky v obci.</p>
 
-* **Práce zastupitelstva:** O termínech zasedání zastupitelstva, rady, výborů, komisí i jejich programu budeme informovat s dostatečným předstihem, s podrobnými podklady a elektronicky
+<p><strong>Průhledná výběrová řízení</strong> | Vždy si prověříme všechny subjekty, které se budou hlásit do výběrových řízení vypsaných městem Kroměříž. Řízení budou transparentní a jejich průběh budete moci sledovat krok za krokem. Konec uzavřeným výběrovým řízením.</p>
 
-* **Personální politika:** Ředitele městských firem musí vybírat renomovaná personální agentura a ne kamarád politik.
+<p><strong>Žádné tajnosti v organizacích města</strong> | Transparentně ukážeme hospodaření organizací patřících pod město - Kroměřížských technických služeb, Sportovních zařízení města Kroměříže, Sociálních služeb města Kroměříže atd.</p>
 
+<p><strong>Pirát ví, Vy budete vědět také</strong> | Prostřednictvím webových stránek a Facebooku Vás budeme pravidelně informovat o fungování našeho města.</p>
 
-### Cíl č.2 ZLÍN – město 21. století
+<p><strong>Méně byrokracie</strong> | Úřady musí obíhat data, ne lidé! Podpoříme implementaci nových technologií do fungování úřadů, elektronický podpis. Ať už žádost o dotaci nebo nový doklad, budeme usilovat o ulehčení Vaší cesty.</p>
 
+<h2 id="2ivotvobcirozvojainformace">2. Život v obci, rozvoj a informace</h2>
 
-* **Smart city není prázdná fráze:** Opravdu chytré město je to, kde lidé rádi žijí, a když z něj odjedou, chlubí se jím
+<p><strong>Vy rozhodnete, kam půjdou peníze</strong> | Prostřednictvím participativního rozpočtu budete rozhodovat, které projekty budou podpořeny finančními prostředky. Budete mít možnost přihlásit vlastní projekt rozvoje města Kroměříž. (*Co je to participativní rozpočet si můžete přečíst <a href="https://wiki.pirati.cz/fo/navody/participativni_rozpocet">ZDE</a>)</p>
 
-* **Rozšíříme městské WI-FI na více lokalit:** Zajistíme dotace EU, o místech rozhodnou lidi v anketě
+<p><strong>Líheň nápadů</strong> | Našim cílem není jen vytvoření podnikatelského inkubátoru. Podpoříme projekty občanů města Kroměříže, které povedou k jeho rozvoji.</p>
 
-* **Činy místo papírů:** Místo tvorby analýz a databází chodníků chodníky spravíme.
+<p><strong>Pro všechny ročníky</strong> | Rozšíříme činnost Studentského fóra, vytvoříme projekty aktivního zapojení občanů všech věkových kategorií, propojíme generace.</p>
 
-* **Nebudeme svítit pánu bohu do oken:** Naším cílem je úprava osvětlení tak, aby opravdu plnilo svůj účel. Špatně navržené osvětlení zvyšuje finanční náklady, protože zbytečně spotřebovává energii.
+<p><strong>Nejen Kroměříž bude vzkvétat</strong> | Podpoříme a budeme rozvíjet městské periferie, spádové oblasti. I tyto oblasti se budou moci zapojit do rozdělování rozpočtu.</p>
 
+<p><strong>Informace 21. století</strong> | Poštovní holubi už nefrčí a mobil má u sebe každý. Zřídíme možnost informovat občany pomocí SMS či e-mailu o podstatných událostech ve městě, plánovaných odstávkách energií, akutních haváriích, plánovaných akcích, atd.</p>
 
-### Cíl č.3 Zlín  Zlíňáci jsou Zlín
+<p><strong>Chytré město</strong> | V chytrém městě podpoříme chytrá a využitelná řešení. Například platbu vstupného prostřednictvím QR kódu, možnost rychlého nahlašování závad na portálu města, rozšíříme dostupnost bezplatého wi-fi připojení na veřejných místech ve městě.</p>
 
-* **Společně to půjde:** Pomocí participativního rozpočtu podpoříme vaše nápady na úpravu veřejných prostranství a  občanské aktivity ve městě (chceme navýšit participativní rozpočet, rozšířit ho i na místní části.)
+<p><strong>Veřejné toalety</strong> | Na exponovaných místech vybudujeme chybějící bezbariérové veřejné toalety.</p>
 
-* **Zjednodušení dotačních procesů:** Podmínky pro přidělení dotací musí lákat k vytváření projektů, nikoli odrazovat od aktivního zapojení občanů.
+<p><strong>Přívětivé centrum města</strong> | Zasadíme se o důslednou kontrolu dodržování městských vyhlášek ve městě, aby naše město bylo bezpečným místem odpočinku.</p>
 
-* **Dáme Vám prostor:** Vytvoříme městský inkubátor, podpora kvalitních nápadů a kreativní rozvoj města
+<h2 id="3kolstvsocilnpezdravotnictvbezpenost">3. Školství, sociální péče, zdravotnictví, bezpečnost</h2>
 
-* **Domluva místo pokut:** Zabráníme, aby pokutování občanů sloužilo k zaplňování děr v rozpočtu města
+<p><strong>Kroměříž jako centrum vzdělání</strong> | Podpoříme budování možnosti vysokoškolského vzdělávání v Kroměříži, navážeme spolupráci místních škol a významných českých univerzit tak, aby mladí lidé nemuseli odcházet z rodného města za studiem a prací.</p>
 
-* **Místní referendum a občanská iniciativa:** Na obecní úrovni budeme vyhovovat návrhům na vyhlášení referenda i v případě menšího počtu podpisů v petici, než jaký zákon požaduje.
+<p><strong>Důstojné stáří</strong> | Pamatujeme také na ty dříve narozené. Rozšíříme nabídku terénní pečovatelské služby, vytvoříme projekty aktivního zapojení seniorů do života města a  mezigenerační mosty.</p>
 
-* **Bydlet chce každý:** Změníme územní plán města a tak podpoříme výstavbu  i městských bytů za dostupné ceny
+<p><strong>Sociální bydlení</strong> | Spoluobčanům žijícím v sociálním vyloučení pomůžeme zpátky do života, a to např. podporou výstavby sociálních bytů.</p>
 
+<p><strong>Jesle</strong> | Reagujeme na stále větší pracovní nároky kladené na maminky nejmenších dětí, pro které zajistíme dostatečnou kapacitu míst v institucích předškolního vzdělávání a v zařízeních pro děti mladší 3 let.</p>
 
-### Cíl č.4 ZLÍN – město na celý život
+<p><strong>Společně to dáme</strong> | Občan ví nejlépe, jaká činnost mu ve městě chybí. Podpoříme vznik, rozvoj a realizaci zájmových skupin občanů.</p>
 
+<p><strong>Nejen na botičky</strong> | Zaměříme se na efektivní fungování městské policie. Ta má být službou občanům, nejen represivním činitelem. Zasadíme se o rozšíření činnosti městské policie v oblasti preventivní, podpoříme a rozšíříme její potřebné kompetence.</p>
 
-* **Voda patří Zlíňákům:** Řešení problému městské společnosti VAK ve prospěch občanů Zlína změnou ve vedení společnosti
+<h2 id="4dopravaaparkovn">4. Doprava a parkování</h2>
 
-* **Nenecháme Zlín na suchu:** Voda v ulicích – vodní prvky snižující prašnost, zachytávání dešťovky – nechceme kropit park pitnou vodou, analýza revitalizace Kudlovské přehrady
+<p><strong>Zelená stopa</strong> | Podpoříme ekologické formy dopravy, jakými jsou např. bikesharing, vybudujeme nabíjecí stanice pro elektromobily, budeme prosazovat alternativní pohon MHD. Na žádoucích místech rozšíříme cyklostezky, usnadníme život těm, kteří nechají doma svůj automobil a vyrazí do města na kole (cyklopruhy, stojany na kola, funkční cyklokemp).</p>
 
-* **Zlínská doprava:** Podpoříme projekt zlínského dopravního terminálu
+<p><strong>Jeden most nestačí</strong> | Další silniční most přes řeku Moravu je nejen dlouho diskutovaný, ale velmi potřebný a vlastně nevyhnutelný.</p>
 
-* **Zlín je kraj, kraj je Zlín:** Spolupráce s krajským úřadem na rozvoji Zlína jako sídla kraje je hlavní priorita
+<p><strong>Parkování</strong> | Zasadíme se o řešení nedostatečných parkovacích kapacit v exponovaných částech města.</p>
 
-* **Čistota půl zdraví:** Stávající skvělé parky doplníme o více recyklačních nádob. Městské akce se budeme snažit dělat udržitelnější vůči životnímu prostředí.
+<p><strong>Díry v dopravě</strong> | Zasadíme se o rychlejší odezvu města na podněty občanů vycházející z potřeb jejich každodenního života (chybějící přechody pro chodce, potřebná regulace rychlosti dopravy aj.).</p>
 
+<p><strong>Bezpečnost pro děti</strong> | Prostřednictvím projektů zapojení občanů města zvýšíme bezpečí těch nejmenších při jejich pohybu v silničním provozu.</p>
 
-### Cíl č.5 ZLÍN – město dobrých sousedů
+<h2 id="5kulturaasport">5. Kultura a sport</h2>
 
-* **Rodina je základ:** Podpora rodičů na mateřských a jejich kvalitní vyžití ve veřejném prostranství a zájmových spolcích
+<p><strong>Přespolní spolupráce</strong> | Zasadíme se o rozvíjení partnerství se spřátelenými obcemi a městy, podpoříme obce a mikroregiony.</p>
 
-* **Důstojné stáří:** Aktivní zapojení občanů do dění ve městě, dobrovolnictví při činnostech organizovaných městem, hlídání přechodů u škol a školek, (inspirace např. Spolek hurá na výlet)
+<p><strong>Sportoviště</strong> | Dohlédneme na průběh a dokončení již realizovaných projektů rekonstrukce a výstavby sportovišť, která v našem městě chybí.</p>
 
-* **Mládí vpřed:** Učiníme Zlín atraktivní městem pro práci-život i rodinu pro naše mladé absolventy, jak by si to přáli bratři Baťovi.
+<p><strong>Prostory pro moderní umění</strong> | Umožníme mladým umělcům realizaci jejich umění, např. zřízením legální graffiti stěny, budováním prostoru pro streetart.</p>
 
-* **Podpora lokálních zemědělců:** Občané Zlína si zaslouží důstojné tržiště. Změníme přístup k nájemníkům prodejních míst na tržišti pod kaštany, budeme preferovat zemědělce a ne přeprodejce.
+<p><strong>Společný portál</strong> | Informace o kulturním a sportovním dění na jednom místě spolu s ostatními informacemi a aktualitami, vstupným na akce, nahlašováním závad aj.</p>
 
-* **Rozvoj sportovišť:** Raději sport než hraní na počítačích, dostatek osvětlených sportovišť, budeme výhradně podporovat amatérský sport a sport dětí.
+<p><strong>Podpora dobrých nápadů</strong> | Zasadíme se o podporu projektů v oblasti kultury a sportu.</p>
 
-* **Hajný je lesa pán:** Za jeden pokácený vysadit dva a minimálně jeden musí vysázen v okruhu maximálně 100 metrů.
+<h2 id="6ivotnprosted">6. Životní prostředí</h2>
+
+<p><strong>Přírodní klimatizace</strong> | Místo betonových ploch více zeleně.</p>
+
+<p><strong>Ohleduplnost k přírodě</strong> | Za každý vykácený strom zasadíme dva nové.</p>
+
+<p><strong>Recyklace a redukce odpadu</strong> | Radnice a úřady půjdou příkladem. Zajistíme kontejnery na ostatní druhy odpadu (kov, textil aj.).</p>
+
+<p><strong>Šetříme přírodu</strong> | Využití dešťové vody na zálivku městské zeleně je skvělým nápadem. Budeme prosazovat úsporná opatření při osvětlení.</p>
+
+<p><strong>Kvalitní ovzduší ve městě</strong> | Vybudujeme měřící stanici, budeme důsledně kontrolovat největší znečišťovatele ovzduší, zasadíme se o zrušení výjimek pro preferované firmy.</p>
+
+<p><strong>Kroměřížané Kroměříži</strong> | Vytvoříme projekty výsadby a péče o okrasnou městskou zeleň samotnými obyvateli místních částí města.</p>
