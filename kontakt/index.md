@@ -6,8 +6,8 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contentSize: even
 contactPersons:
-  - id: martina.urbankova
-    position: Předsedkyně MS Zlín
+  - id: vratislav.krejcir
+    position: Předseda MS Kroměříž
   - id: lucie.svehlikova
     position: Mediální specialistka
   - id: lucie.svehlikova
