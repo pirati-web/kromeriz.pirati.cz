@@ -9,6 +9,8 @@ image: posts/veprin.jpg
 tags: 
 - kromeriz
 - veprin
+
+important: true
 ---
 Kroměřížské zastupitelstvo probíralo letitý spor mezi společností SZP Těšnovice, která provozuje vepřín v Těšnovicích, a spolkem Hortus Moraviae. Majitel chce vepřín modernizovat a rozšířit, spolek, který sdružuje občany Těšnovic, ale také politiky, se obává zhoršení kvality života v Těšnovicích a jejich okolí. Jsem přesvědčen, že letité technologie vepřína je potřeba vyměnit. Horší to být nemůže. Cestou může být jen jednání a dohoda obou stran. Soudní spor je letitá záležitost s nejistým výsledkem. Jedině smír podle mě povede ke kýženému výsledku.
 
