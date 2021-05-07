@@ -1,17 +1,25 @@
 ---
 uid: lucie.svehlikova
 name:     Lucie Švehlíková  	# běžně používáné jméno
-fullname: Bc. Lucie Švehlíková  	# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                   # kategorie: clenove
-- kontakt
 
 
 img: people/lucie-svehlikova.jpg   # 165 x 220
-description: Krajská mediální specialistka # kratký popis, max 160 znaků
-mob:			  +420 605 263 660
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+description: krajská mediální specialistka # kratký popis, max 160 znaků
+profession: krajská mediální specialistka
+partyUid: pirati
+mob: +420 605 263 660
 mail:
 - luciesvehlikova@gmail.com
 profiles:
-  facebook: https://www.facebook.com/lucie.svehlikova/
-  
+  facebook:  https://www.facebook.com/lucie.svehlikova/
+    
+funkce:
+ - krajská mediální specialistka
+ - krajský kontakt pro sněmovní volby
+
 ---
