@@ -6,7 +6,7 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contentSize: even
 contactPersons:
-  - id: vratislav.krejcir
+  - id: jakub.zach
     position: Předseda MS Kroměříž
   - id: lucie.svehlikova
     position: Mediální specialistka
